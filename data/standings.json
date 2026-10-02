@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-02T02:17:00.449894+00:00",
+  "updated_at": "2026-10-02T09:45:23.584895+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 1,
@@ -69,7 +69,7 @@
     },
     "NFL|Pittsburgh Steelers": {
       "wins": 2,
-      "losses": 1,
+      "losses": 2,
       "ties": 0
     },
     "NFL|Chicago Bears": {
@@ -83,7 +83,7 @@
       "ties": 0
     },
     "NFL|Cleveland Browns": {
-      "wins": 2,
+      "wins": 3,
       "losses": 1,
       "ties": 0
     },
@@ -228,7 +228,7 @@
       "ties": 0
     },
     "CFB|New Mexico State Aggies": {
-      "wins": 1,
+      "wins": 2,
       "losses": 3,
       "ties": 0
     },
@@ -458,7 +458,7 @@
       "ties": 0
     },
     "CFB|North Texas Mean Green": {
-      "wins": 2,
+      "wins": 3,
       "losses": 2,
       "ties": 0
     },
@@ -779,7 +779,7 @@
     },
     "CFB|Tulsa Golden Hurricane": {
       "wins": 3,
-      "losses": 1,
+      "losses": 2,
       "ties": 0
     },
     "CFB|North Alabama Lions": {
@@ -1054,7 +1054,7 @@
     },
     "CFB|Western Kentucky Hilltoppers": {
       "wins": 1,
-      "losses": 3,
+      "losses": 4,
       "ties": 0
     },
     "CFB|Nevada Wolf Pack": {
@@ -2149,13 +2149,13 @@
       "sport": "NFL",
       "away": "Pittsburgh Steelers",
       "home": "Cleveland Browns",
-      "awayScore": 10,
-      "homeScore": 21,
-      "state": "in",
-      "statusText": "10:24 - 3rd",
+      "awayScore": 24,
+      "homeScore": 27,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-10-02T00:15Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401872965",
@@ -9378,25 +9378,25 @@
       "away": "Western Kentucky Hilltoppers",
       "home": "New Mexico State Aggies",
       "awayScore": 13,
-      "homeScore": 27,
-      "state": "in",
-      "statusText": "8:14 - 3rd",
+      "homeScore": 34,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-10-02T00:00Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401862786",
       "sport": "CFB",
       "away": "North Texas Mean Green",
       "home": "Tulsa Golden Hurricane",
-      "awayScore": 3,
-      "homeScore": 14,
-      "state": "in",
-      "statusText": "6:47 - 2nd",
+      "awayScore": 45,
+      "homeScore": 44,
+      "state": "post",
+      "statusText": "Final/OT",
       "date": "2026-10-02T01:00Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401858245",
