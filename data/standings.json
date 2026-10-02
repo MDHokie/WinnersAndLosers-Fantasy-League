@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-01T23:12:12.798336+00:00",
+  "updated_at": "2026-10-02T02:17:00.449894+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 1,
@@ -2149,13 +2149,13 @@
       "sport": "NFL",
       "away": "Pittsburgh Steelers",
       "home": "Cleveland Browns",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/1 - 8:15 PM EDT",
+      "awayScore": 10,
+      "homeScore": 21,
+      "state": "in",
+      "statusText": "10:24 - 3rd",
       "date": "2026-10-02T00:15Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401872965",
@@ -9377,26 +9377,26 @@
       "sport": "CFB",
       "away": "Western Kentucky Hilltoppers",
       "home": "New Mexico State Aggies",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/1 - 8:00 PM EDT",
+      "awayScore": 13,
+      "homeScore": 27,
+      "state": "in",
+      "statusText": "8:14 - 3rd",
       "date": "2026-10-02T00:00Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401862786",
       "sport": "CFB",
       "away": "North Texas Mean Green",
       "home": "Tulsa Golden Hurricane",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/1 - 9:00 PM EDT",
+      "awayScore": 3,
+      "homeScore": 14,
+      "state": "in",
+      "statusText": "6:47 - 2nd",
       "date": "2026-10-02T01:00Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401858245",
