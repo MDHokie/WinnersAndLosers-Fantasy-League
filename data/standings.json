@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-03T01:12:03.230002+00:00",
+  "updated_at": "2026-10-03T06:34:40.376619+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 1,
@@ -304,7 +304,7 @@
     },
     "CFB|Delaware Blue Hens": {
       "wins": 2,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     },
     "CFB|West Georgia Wolves": {
@@ -534,7 +534,7 @@
     },
     "CFB|Penn State Nittany Lions": {
       "wins": 3,
-      "losses": 1,
+      "losses": 2,
       "ties": 0
     },
     "CFB|Furman Paladins": {
@@ -628,7 +628,7 @@
       "ties": 0
     },
     "CFB|Liberty Flames": {
-      "wins": 3,
+      "wins": 4,
       "losses": 1,
       "ties": 0
     },
@@ -643,7 +643,7 @@
       "ties": 0
     },
     "CFB|Pittsburgh Panthers": {
-      "wins": 4,
+      "wins": 5,
       "losses": 0,
       "ties": 0
     },
@@ -929,7 +929,7 @@
     },
     "CFB|Virginia Tech Hokies": {
       "wins": 4,
-      "losses": 0,
+      "losses": 1,
       "ties": 0
     },
     "CFB|Northwestern State Demons": {
@@ -978,7 +978,7 @@
       "ties": 0
     },
     "CFB|Northwestern Wildcats": {
-      "wins": 2,
+      "wins": 3,
       "losses": 1,
       "ties": 0
     },
@@ -9403,39 +9403,39 @@
       "sport": "CFB",
       "away": "Pittsburgh Panthers",
       "home": "Virginia Tech Hokies",
-      "awayScore": 21,
-      "homeScore": 24,
-      "state": "in",
-      "statusText": "Halftime",
+      "awayScore": 35,
+      "homeScore": 33,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-10-02T23:00Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401871050",
       "sport": "CFB",
       "away": "Liberty Flames",
       "home": "Delaware Blue Hens",
-      "awayScore": 20,
-      "homeScore": 0,
-      "state": "in",
-      "statusText": "6:49 - 3rd",
+      "awayScore": 30,
+      "homeScore": 14,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-10-02T23:00Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401858476",
       "sport": "CFB",
       "away": "Penn State Nittany Lions",
       "home": "Northwestern Wildcats",
-      "awayScore": 7,
-      "homeScore": 10,
-      "state": "in",
-      "statusText": "10:40 - 2nd",
+      "awayScore": 13,
+      "homeScore": 34,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-10-03T00:00Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401862787",
