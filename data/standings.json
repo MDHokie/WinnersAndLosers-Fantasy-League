@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-02T21:19:49.860095+00:00",
+  "updated_at": "2026-10-03T01:12:03.230002+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 1,
@@ -9403,39 +9403,39 @@
       "sport": "CFB",
       "away": "Pittsburgh Panthers",
       "home": "Virginia Tech Hokies",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/2 - 7:00 PM EDT",
+      "awayScore": 21,
+      "homeScore": 24,
+      "state": "in",
+      "statusText": "Halftime",
       "date": "2026-10-02T23:00Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401871050",
       "sport": "CFB",
       "away": "Liberty Flames",
       "home": "Delaware Blue Hens",
-      "awayScore": 0,
+      "awayScore": 20,
       "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/2 - 7:00 PM EDT",
+      "state": "in",
+      "statusText": "6:49 - 3rd",
       "date": "2026-10-02T23:00Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401858476",
       "sport": "CFB",
       "away": "Penn State Nittany Lions",
       "home": "Northwestern Wildcats",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/2 - 8:00 PM EDT",
+      "awayScore": 7,
+      "homeScore": 10,
+      "state": "in",
+      "statusText": "10:40 - 2nd",
       "date": "2026-10-03T00:00Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401862787",
