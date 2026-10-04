@@ -1,9 +1,9 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-04T17:34:44.418047+00:00",
+  "updated_at": "2026-10-04T21:24:10.384917+00:00",
   "team_records": {
     "NFL|New England Patriots": {
-      "wins": 1,
+      "wins": 2,
       "losses": 2,
       "ties": 0
     },
@@ -18,18 +18,18 @@
       "ties": 0
     },
     "NFL|Los Angeles Rams": {
-      "wins": 1,
+      "wins": 2,
       "losses": 2,
       "ties": 0
     },
     "NFL|Tampa Bay Buccaneers": {
       "wins": 0,
-      "losses": 3,
+      "losses": 4,
       "ties": 0
     },
     "NFL|Cincinnati Bengals": {
       "wins": 2,
-      "losses": 1,
+      "losses": 2,
       "ties": 0
     },
     "NFL|New Orleans Saints": {
@@ -44,16 +44,16 @@
     },
     "NFL|New York Jets": {
       "wins": 1,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     },
     "NFL|Tennessee Titans": {
       "wins": 0,
-      "losses": 3,
+      "losses": 4,
       "ties": 0
     },
     "NFL|Baltimore Ravens": {
-      "wins": 2,
+      "wins": 3,
       "losses": 1,
       "ties": 0
     },
@@ -73,7 +73,7 @@
       "ties": 0
     },
     "NFL|Chicago Bears": {
-      "wins": 2,
+      "wins": 3,
       "losses": 1,
       "ties": 0
     },
@@ -88,18 +88,18 @@
       "ties": 0
     },
     "NFL|Jacksonville Jaguars": {
-      "wins": 2,
+      "wins": 3,
       "losses": 1,
       "ties": 0
     },
     "NFL|Buffalo Bills": {
       "wins": 3,
-      "losses": 0,
+      "losses": 1,
       "ties": 0
     },
     "NFL|Houston Texans": {
       "wins": 0,
-      "losses": 3,
+      "losses": 4,
       "ties": 0
     },
     "NFL|Miami Dolphins": {
@@ -113,7 +113,7 @@
       "ties": 0
     },
     "NFL|Green Bay Packers": {
-      "wins": 1,
+      "wins": 2,
       "losses": 2,
       "ties": 0
     },
@@ -129,12 +129,12 @@
     },
     "NFL|Philadelphia Eagles": {
       "wins": 2,
-      "losses": 1,
+      "losses": 2,
       "ties": 0
     },
     "NFL|Arizona Cardinals": {
       "wins": 1,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     },
     "NFL|Los Angeles Chargers": {
@@ -143,12 +143,12 @@
       "ties": 0
     },
     "NFL|Dallas Cowboys": {
-      "wins": 1,
+      "wins": 2,
       "losses": 2,
       "ties": 0
     },
     "NFL|New York Giants": {
-      "wins": 2,
+      "wins": 3,
       "losses": 1,
       "ties": 0
     },
@@ -2145,106 +2145,54 @@
       "inProgress": false
     },
     {
-      "id": "401872971",
+      "id": "401872974",
       "sport": "NFL",
-      "away": "New England Patriots",
-      "home": "Buffalo Bills",
-      "awayScore": 7,
-      "homeScore": 7,
-      "state": "in",
-      "statusText": "14:15 - 2nd",
-      "date": "2026-10-04T17:00Z",
-      "completed": false,
-      "inProgress": true
-    },
-    {
-      "id": "401872972",
-      "sport": "NFL",
-      "away": "New York Jets",
-      "home": "Chicago Bears",
+      "away": "Miami Dolphins",
+      "home": "Minnesota Vikings",
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 6,
       "state": "in",
-      "statusText": "3:55 - 1st",
-      "date": "2026-10-04T17:00Z",
+      "statusText": "2:53 - 2nd",
+      "date": "2026-10-04T20:05Z",
       "completed": false,
       "inProgress": true
     },
     {
-      "id": "401872969",
+      "id": "401872976",
       "sport": "NFL",
-      "away": "Jacksonville Jaguars",
-      "home": "Cincinnati Bengals",
-      "awayScore": 3,
-      "homeScore": 0,
-      "state": "in",
-      "statusText": "1:24 - 1st",
-      "date": "2026-10-04T17:00Z",
-      "completed": false,
-      "inProgress": true
-    },
-    {
-      "id": "401872966",
-      "sport": "NFL",
-      "away": "Arizona Cardinals",
-      "home": "New York Giants",
-      "awayScore": 14,
-      "homeScore": 3,
-      "state": "in",
-      "statusText": "15:00 - 2nd",
-      "date": "2026-10-04T17:00Z",
-      "completed": false,
-      "inProgress": true
-    },
-    {
-      "id": "401872970",
-      "sport": "NFL",
-      "away": "Los Angeles Rams",
-      "home": "Philadelphia Eagles",
-      "awayScore": 3,
-      "homeScore": 3,
-      "state": "in",
-      "statusText": "2:02 - 1st",
-      "date": "2026-10-04T17:00Z",
-      "completed": false,
-      "inProgress": true
-    },
-    {
-      "id": "401872968",
-      "sport": "NFL",
-      "away": "Green Bay Packers",
-      "home": "Tampa Bay Buccaneers",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "in",
-      "statusText": "12:58 - 2nd",
-      "date": "2026-10-04T17:00Z",
-      "completed": false,
-      "inProgress": true
-    },
-    {
-      "id": "401872973",
-      "sport": "NFL",
-      "away": "Tennessee Titans",
-      "home": "Baltimore Ravens",
+      "away": "Kansas City Chiefs",
+      "home": "Las Vegas Raiders",
       "awayScore": 7,
-      "homeScore": 7,
-      "state": "in",
-      "statusText": "1:04 - 1st",
-      "date": "2026-10-04T17:00Z",
-      "completed": false,
-      "inProgress": true
-    },
-    {
-      "id": "401872967",
-      "sport": "NFL",
-      "away": "Dallas Cowboys",
-      "home": "Houston Texans",
-      "awayScore": 3,
       "homeScore": 10,
       "state": "in",
-      "statusText": "1:21 - 1st",
-      "date": "2026-10-04T17:00Z",
+      "statusText": "3:19 - 2nd",
+      "date": "2026-10-04T20:25Z",
+      "completed": false,
+      "inProgress": true
+    },
+    {
+      "id": "401872975",
+      "sport": "NFL",
+      "away": "Denver Broncos",
+      "home": "San Francisco 49ers",
+      "awayScore": 3,
+      "homeScore": 0,
+      "state": "in",
+      "statusText": "5:01 - 2nd",
+      "date": "2026-10-04T20:25Z",
+      "completed": false,
+      "inProgress": true
+    },
+    {
+      "id": "401872977",
+      "sport": "NFL",
+      "away": "Los Angeles Chargers",
+      "home": "Seattle Seahawks",
+      "awayScore": 3,
+      "homeScore": 7,
+      "state": "in",
+      "statusText": "11:44 - 2nd",
+      "date": "2026-10-04T20:25Z",
       "completed": false,
       "inProgress": true
     },
@@ -2262,55 +2210,107 @@
       "inProgress": false
     },
     {
-      "id": "401872974",
+      "id": "401872971",
       "sport": "NFL",
-      "away": "Miami Dolphins",
-      "home": "Minnesota Vikings",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/4 - 4:05 PM EDT",
-      "date": "2026-10-04T20:05Z",
-      "completed": false,
+      "away": "New England Patriots",
+      "home": "Buffalo Bills",
+      "awayScore": 29,
+      "homeScore": 26,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-10-04T17:00Z",
+      "completed": true,
       "inProgress": false
     },
     {
-      "id": "401872976",
+      "id": "401872972",
       "sport": "NFL",
-      "away": "Kansas City Chiefs",
-      "home": "Las Vegas Raiders",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/4 - 4:25 PM EDT",
-      "date": "2026-10-04T20:25Z",
-      "completed": false,
+      "away": "New York Jets",
+      "home": "Chicago Bears",
+      "awayScore": 12,
+      "homeScore": 23,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-10-04T17:00Z",
+      "completed": true,
       "inProgress": false
     },
     {
-      "id": "401872975",
+      "id": "401872969",
       "sport": "NFL",
-      "away": "Denver Broncos",
-      "home": "San Francisco 49ers",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/4 - 4:25 PM EDT",
-      "date": "2026-10-04T20:25Z",
-      "completed": false,
+      "away": "Jacksonville Jaguars",
+      "home": "Cincinnati Bengals",
+      "awayScore": 22,
+      "homeScore": 17,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-10-04T17:00Z",
+      "completed": true,
       "inProgress": false
     },
     {
-      "id": "401872977",
+      "id": "401872966",
       "sport": "NFL",
-      "away": "Los Angeles Chargers",
-      "home": "Seattle Seahawks",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/4 - 4:25 PM EDT",
-      "date": "2026-10-04T20:25Z",
-      "completed": false,
+      "away": "Arizona Cardinals",
+      "home": "New York Giants",
+      "awayScore": 24,
+      "homeScore": 36,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-10-04T17:00Z",
+      "completed": true,
+      "inProgress": false
+    },
+    {
+      "id": "401872970",
+      "sport": "NFL",
+      "away": "Los Angeles Rams",
+      "home": "Philadelphia Eagles",
+      "awayScore": 24,
+      "homeScore": 20,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-10-04T17:00Z",
+      "completed": true,
+      "inProgress": false
+    },
+    {
+      "id": "401872968",
+      "sport": "NFL",
+      "away": "Green Bay Packers",
+      "home": "Tampa Bay Buccaneers",
+      "awayScore": 17,
+      "homeScore": 14,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-10-04T17:00Z",
+      "completed": true,
+      "inProgress": false
+    },
+    {
+      "id": "401872973",
+      "sport": "NFL",
+      "away": "Tennessee Titans",
+      "home": "Baltimore Ravens",
+      "awayScore": 18,
+      "homeScore": 24,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-10-04T17:00Z",
+      "completed": true,
+      "inProgress": false
+    },
+    {
+      "id": "401872967",
+      "sport": "NFL",
+      "away": "Dallas Cowboys",
+      "home": "Houston Texans",
+      "awayScore": 34,
+      "homeScore": 30,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-10-04T17:00Z",
+      "completed": true,
       "inProgress": false
     },
     {
@@ -10309,19 +10309,6 @@
       "inProgress": false
     },
     {
-      "id": "401856824",
-      "sport": "CFB",
-      "away": "UCF Knights",
-      "home": "Oklahoma State Cowboys",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/10 - 12:00 PM EDT",
-      "date": "2026-10-10T16:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
       "id": "401856716",
       "sport": "CFB",
       "away": "Texas A&M Aggies",
@@ -10335,10 +10322,10 @@
       "inProgress": false
     },
     {
-      "id": "401856823",
+      "id": "401856824",
       "sport": "CFB",
-      "away": "Arizona Wildcats",
-      "home": "West Virginia Mountaineers",
+      "away": "UCF Knights",
+      "home": "Oklahoma State Cowboys",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -10352,6 +10339,19 @@
       "sport": "CFB",
       "away": "North Carolina Tar Heels",
       "home": "Pittsburgh Panthers",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "10/10 - 12:00 PM EDT",
+      "date": "2026-10-10T16:00Z",
+      "completed": false,
+      "inProgress": false
+    },
+    {
+      "id": "401856823",
+      "sport": "CFB",
+      "away": "Arizona Wildcats",
+      "home": "West Virginia Mountaineers",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -10855,6 +10855,19 @@
       "inProgress": false
     },
     {
+      "id": "401856808",
+      "sport": "CFB",
+      "away": "Hawai'i Rainbow Warriors",
+      "home": "Arizona State Sun Devils",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "10/10 - 9:30 PM EDT",
+      "date": "2026-10-11T01:30Z",
+      "completed": false,
+      "inProgress": false
+    },
+    {
       "id": "401856827",
       "sport": "CFB",
       "away": "Kansas Jayhawks",
@@ -10872,19 +10885,6 @@
       "sport": "CFB",
       "away": "Boise State Broncos",
       "home": "Fresno State Bulldogs",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/10 - 10:30 PM EDT",
-      "date": "2026-10-11T02:30Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
-      "id": "401856808",
-      "sport": "CFB",
-      "away": "Hawai'i Rainbow Warriors",
-      "home": "Arizona State Sun Devils",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -11180,6 +11180,19 @@
       "inProgress": false
     },
     {
+      "id": "401858494",
+      "sport": "CFB",
+      "away": "Wisconsin Badgers",
+      "home": "UCLA Bruins",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "TBD",
+      "date": "2026-10-17T04:00Z",
+      "completed": false,
+      "inProgress": false
+    },
+    {
       "id": "401858268",
       "sport": "CFB",
       "away": "Virginia Cavaliers",
@@ -11193,10 +11206,10 @@
       "inProgress": false
     },
     {
-      "id": "401858494",
+      "id": "401858267",
       "sport": "CFB",
-      "away": "Wisconsin Badgers",
-      "home": "UCLA Bruins",
+      "away": "Pittsburgh Panthers",
+      "home": "Boston College Eagles",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -11314,19 +11327,6 @@
       "sport": "CFB",
       "away": "North Carolina Tar Heels",
       "home": "Duke Blue Devils",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "TBD",
-      "date": "2026-10-17T04:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
-      "id": "401858267",
-      "sport": "CFB",
-      "away": "Pittsburgh Panthers",
-      "home": "Boston College Eagles",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -11882,10 +11882,10 @@
       "inProgress": false
     },
     {
-      "id": "401858496",
+      "id": "401856727",
       "sport": "CFB",
-      "away": "Indiana Hoosiers",
-      "home": "Michigan Wolverines",
+      "away": "Texas A&M Aggies",
+      "home": "Alabama Crimson Tide",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -11895,10 +11895,10 @@
       "inProgress": false
     },
     {
-      "id": "401856727",
+      "id": "401858496",
       "sport": "CFB",
-      "away": "Texas A&M Aggies",
-      "home": "Alabama Crimson Tide",
+      "away": "Indiana Hoosiers",
+      "home": "Michigan Wolverines",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -11947,36 +11947,10 @@
       "inProgress": false
     },
     {
-      "id": "401858497",
-      "sport": "CFB",
-      "away": "Iowa Hawkeyes",
-      "home": "Minnesota Golden Gophers",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "TBD",
-      "date": "2026-10-24T04:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
       "id": "401858495",
       "sport": "CFB",
       "away": "Oregon Ducks",
       "home": "Illinois Fighting Illini",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "TBD",
-      "date": "2026-10-24T04:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
-      "id": "401856730",
-      "sport": "CFB",
-      "away": "Oklahoma Sooners",
-      "home": "Mississippi State Bulldogs",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -11999,10 +11973,10 @@
       "inProgress": false
     },
     {
-      "id": "401858500",
+      "id": "401856730",
       "sport": "CFB",
-      "away": "USC Trojans",
-      "home": "Wisconsin Badgers",
+      "away": "Oklahoma Sooners",
+      "home": "Mississippi State Bulldogs",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -12025,10 +11999,23 @@
       "inProgress": false
     },
     {
-      "id": "401858270",
+      "id": "401858500",
       "sport": "CFB",
-      "away": "California Golden Bears",
-      "home": "SMU Mustangs",
+      "away": "USC Trojans",
+      "home": "Wisconsin Badgers",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "TBD",
+      "date": "2026-10-24T04:00Z",
+      "completed": false,
+      "inProgress": false
+    },
+    {
+      "id": "401858497",
+      "sport": "CFB",
+      "away": "Iowa Hawkeyes",
+      "home": "Minnesota Golden Gophers",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -12042,6 +12029,19 @@
       "sport": "CFB",
       "away": "Michigan State Spartans",
       "home": "UCLA Bruins",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "TBD",
+      "date": "2026-10-24T04:00Z",
+      "completed": false,
+      "inProgress": false
+    },
+    {
+      "id": "401858270",
+      "sport": "CFB",
+      "away": "California Golden Bears",
+      "home": "SMU Mustangs",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
