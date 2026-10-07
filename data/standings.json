@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-07T01:32:06.726725+00:00",
+  "updated_at": "2026-10-07T08:38:41.859447+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 2,
@@ -799,7 +799,7 @@
     },
     "CFB|Southern Miss Golden Eagles": {
       "wins": 1,
-      "losses": 3,
+      "losses": 4,
       "ties": 0
     },
     "CFB|Wyoming Cowboys": {
@@ -908,7 +908,7 @@
       "ties": 0
     },
     "CFB|Troy Trojans": {
-      "wins": 2,
+      "wins": 3,
       "losses": 2,
       "ties": 0
     },
@@ -10144,13 +10144,13 @@
       "sport": "CFB",
       "away": "Southern Miss Golden Eagles",
       "home": "Troy Trojans",
-      "awayScore": 7,
-      "homeScore": 24,
-      "state": "in",
-      "statusText": "0:24 - 2nd",
+      "awayScore": 34,
+      "homeScore": 55,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-10-07T00:00Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401871051",
