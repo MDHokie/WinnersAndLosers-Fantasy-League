@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-06T21:37:37.036858+00:00",
+  "updated_at": "2026-10-07T01:32:06.726725+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 2,
@@ -10144,13 +10144,13 @@
       "sport": "CFB",
       "away": "Southern Miss Golden Eagles",
       "home": "Troy Trojans",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/6 - 8:00 PM EDT",
+      "awayScore": 7,
+      "homeScore": 24,
+      "state": "in",
+      "statusText": "0:24 - 2nd",
       "date": "2026-10-07T00:00Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401871051",
