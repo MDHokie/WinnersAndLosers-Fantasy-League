@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-08T08:57:29.522985+00:00",
+  "updated_at": "2026-10-08T16:28:07.661266+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 2,
@@ -10855,19 +10855,6 @@
       "inProgress": false
     },
     {
-      "id": "401856808",
-      "sport": "CFB",
-      "away": "Hawai'i Rainbow Warriors",
-      "home": "Arizona State Sun Devils",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/10 - 9:30 PM EDT",
-      "date": "2026-10-11T01:30Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
       "id": "401856827",
       "sport": "CFB",
       "away": "Kansas Jayhawks",
@@ -10885,6 +10872,19 @@
       "sport": "CFB",
       "away": "Boise State Broncos",
       "home": "Fresno State Bulldogs",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "10/10 - 10:30 PM EDT",
+      "date": "2026-10-11T02:30Z",
+      "completed": false,
+      "inProgress": false
+    },
+    {
+      "id": "401856808",
+      "sport": "CFB",
+      "away": "Hawai'i Rainbow Warriors",
+      "home": "Arizona State Sun Devils",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
