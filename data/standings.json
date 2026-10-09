@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-09T02:09:27.355927+00:00",
+  "updated_at": "2026-10-09T09:03:08.017813+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 2,
@@ -23,7 +23,7 @@
       "ties": 0
     },
     "NFL|Tampa Bay Buccaneers": {
-      "wins": 0,
+      "wins": 1,
       "losses": 4,
       "ties": 0
     },
@@ -144,7 +144,7 @@
     },
     "NFL|Dallas Cowboys": {
       "wins": 2,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     },
     "NFL|New York Giants": {
@@ -469,7 +469,7 @@
     },
     "CFB|Missouri State Bears": {
       "wins": 1,
-      "losses": 3,
+      "losses": 4,
       "ties": 0
     },
     "CFB|Texas A&M Aggies": {
@@ -628,7 +628,7 @@
       "ties": 0
     },
     "CFB|Liberty Flames": {
-      "wins": 4,
+      "wins": 5,
       "losses": 1,
       "ties": 0
     },
@@ -753,7 +753,7 @@
       "ties": 0
     },
     "CFB|UTSA Roadrunners": {
-      "wins": 4,
+      "wins": 5,
       "losses": 1,
       "ties": 0
     },
@@ -854,7 +854,7 @@
     },
     "CFB|Arkansas State Red Wolves": {
       "wins": 2,
-      "losses": 3,
+      "losses": 4,
       "ties": 0
     },
     "CFB|Houston Christian Huskies": {
@@ -874,7 +874,7 @@
     },
     "CFB|South Florida Bulls": {
       "wins": 4,
-      "losses": 1,
+      "losses": 2,
       "ties": 0
     },
     "CFB|Eastern Kentucky Colonels": {
@@ -898,13 +898,13 @@
       "ties": 0
     },
     "CFB|South Alabama Jaguars": {
-      "wins": 3,
+      "wins": 4,
       "losses": 2,
       "ties": 0
     },
     "CFB|Sam Houston Bearkats": {
       "wins": 1,
-      "losses": 3,
+      "losses": 4,
       "ties": 0
     },
     "CFB|Troy Trojans": {
@@ -1053,7 +1053,7 @@
       "ties": 0
     },
     "CFB|Western Kentucky Hilltoppers": {
-      "wins": 1,
+      "wins": 2,
       "losses": 4,
       "ties": 0
     },
@@ -2370,13 +2370,13 @@
       "sport": "NFL",
       "away": "Tampa Bay Buccaneers",
       "home": "Dallas Cowboys",
-      "awayScore": 14,
-      "homeScore": 10,
-      "state": "in",
-      "statusText": "10:17 - 3rd",
+      "awayScore": 24,
+      "homeScore": 16,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-10-09T00:15Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401872981",
@@ -10185,11 +10185,11 @@
       "home": "Liberty Flames",
       "awayScore": 3,
       "homeScore": 35,
-      "state": "in",
-      "statusText": "1:34 - 4th",
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-10-08T23:00Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401871052",
@@ -10198,37 +10198,37 @@
       "home": "Western Kentucky Hilltoppers",
       "awayScore": 13,
       "homeScore": 34,
-      "state": "in",
-      "statusText": "0:33 - 4th",
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-10-08T23:00Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401862794",
       "sport": "CFB",
       "away": "South Florida Bulls",
       "home": "UTSA Roadrunners",
-      "awayScore": 17,
-      "homeScore": 20,
-      "state": "in",
-      "statusText": "15:00 - 4th",
+      "awayScore": 24,
+      "homeScore": 31,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-10-08T23:30Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401869933",
       "sport": "CFB",
       "away": "South Alabama Jaguars",
       "home": "Arkansas State Red Wolves",
-      "awayScore": 49,
-      "homeScore": 28,
-      "state": "in",
-      "statusText": "2:35 - 3rd",
+      "awayScore": 56,
+      "homeScore": 49,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-10-08T23:30Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401858254",
