@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-09T09:03:08.017813+00:00",
+  "updated_at": "2026-10-09T16:12:06.954163+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 2,
@@ -10439,6 +10439,19 @@
       "inProgress": false
     },
     {
+      "id": "401862797",
+      "sport": "CFB",
+      "away": "Rice Owls",
+      "home": "East Carolina Pirates",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "10/10 - 1:00 PM EDT",
+      "date": "2026-10-10T17:00Z",
+      "completed": false,
+      "inProgress": false
+    },
+    {
       "id": "401866440",
       "sport": "CFB",
       "away": "Miami (OH) RedHawks",
@@ -10643,19 +10656,6 @@
       "state": "pre",
       "statusText": "10/10 - 3:45 PM EDT",
       "date": "2026-10-10T19:45Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
-      "id": "401862797",
-      "sport": "CFB",
-      "away": "Rice Owls",
-      "home": "East Carolina Pirates",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/10 - 4:00 PM EDT",
-      "date": "2026-10-10T20:00Z",
       "completed": false,
       "inProgress": false
     },
