@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-10T07:06:25.494961+00:00",
+  "updated_at": "2026-10-10T13:41:06.823119+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 2,
@@ -10426,10 +10426,10 @@
       "inProgress": false
     },
     {
-      "id": "401869843",
+      "id": "401862797",
       "sport": "CFB",
-      "away": "Old Dominion Monarchs",
-      "home": "App State Mountaineers",
+      "away": "Rice Owls",
+      "home": "East Carolina Pirates",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -10439,10 +10439,10 @@
       "inProgress": false
     },
     {
-      "id": "401862797",
+      "id": "401869843",
       "sport": "CFB",
-      "away": "Rice Owls",
-      "home": "East Carolina Pirates",
+      "away": "Old Dominion Monarchs",
+      "home": "App State Mountaineers",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
