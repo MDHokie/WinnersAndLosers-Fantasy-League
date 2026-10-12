@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-12T00:32:01.628786+00:00",
+  "updated_at": "2026-10-12T07:20:57.712328+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 3,
@@ -53,7 +53,7 @@
       "ties": 0
     },
     "NFL|Baltimore Ravens": {
-      "wins": 3,
+      "wins": 4,
       "losses": 1,
       "ties": 0
     },
@@ -64,7 +64,7 @@
     },
     "NFL|Atlanta Falcons": {
       "wins": 2,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     },
     "NFL|Pittsburgh Steelers": {
@@ -2366,6 +2366,32 @@
       "inProgress": false
     },
     {
+      "id": "401872994",
+      "sport": "NFL",
+      "away": "Buffalo Bills",
+      "home": "Los Angeles Rams",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "10/12 - 8:15 PM EDT",
+      "date": "2026-10-13T00:15Z",
+      "completed": false,
+      "inProgress": false
+    },
+    {
+      "id": "401872980",
+      "sport": "NFL",
+      "away": "Tampa Bay Buccaneers",
+      "home": "Dallas Cowboys",
+      "awayScore": 24,
+      "homeScore": 16,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-10-09T00:15Z",
+      "completed": true,
+      "inProgress": false
+    },
+    {
       "id": "401872981",
       "sport": "NFL",
       "away": "Philadelphia Eagles",
@@ -2526,38 +2552,12 @@
       "sport": "NFL",
       "away": "Baltimore Ravens",
       "home": "Atlanta Falcons",
-      "awayScore": 3,
-      "homeScore": 0,
-      "state": "in",
-      "statusText": "10:27 - 1st",
-      "date": "2026-10-12T00:20Z",
-      "completed": false,
-      "inProgress": true
-    },
-    {
-      "id": "401872980",
-      "sport": "NFL",
-      "away": "Tampa Bay Buccaneers",
-      "home": "Dallas Cowboys",
-      "awayScore": 24,
-      "homeScore": 16,
+      "awayScore": 30,
+      "homeScore": 23,
       "state": "post",
-      "statusText": "Final",
-      "date": "2026-10-09T00:15Z",
+      "statusText": "Final/OT",
+      "date": "2026-10-12T00:20Z",
       "completed": true,
-      "inProgress": false
-    },
-    {
-      "id": "401872994",
-      "sport": "NFL",
-      "away": "Buffalo Bills",
-      "home": "Los Angeles Rams",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/12 - 8:15 PM EDT",
-      "date": "2026-10-13T00:15Z",
-      "completed": false,
       "inProgress": false
     },
     {
