@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-12T07:20:57.712328+00:00",
+  "updated_at": "2026-10-12T17:53:45.866095+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 3,
@@ -11882,32 +11882,6 @@
       "inProgress": false
     },
     {
-      "id": "401856727",
-      "sport": "CFB",
-      "away": "Texas A&M Aggies",
-      "home": "Alabama Crimson Tide",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "TBD",
-      "date": "2026-10-24T04:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
-      "id": "401856732",
-      "sport": "CFB",
-      "away": "Ole Miss Rebels",
-      "home": "Texas Longhorns",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "TBD",
-      "date": "2026-10-24T04:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
       "id": "401856835",
       "sport": "CFB",
       "away": "BYU Cougars",
@@ -12116,19 +12090,6 @@
       "inProgress": false
     },
     {
-      "id": "401858273",
-      "sport": "CFB",
-      "away": "Boston College Eagles",
-      "home": "Georgia Tech Yellow Jackets",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "TBD",
-      "date": "2026-10-24T04:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
       "id": "401858275",
       "sport": "CFB",
       "away": "Syracuse Orange",
@@ -12246,19 +12207,6 @@
       "inProgress": false
     },
     {
-      "id": "401866449",
-      "sport": "CFB",
-      "away": "Eastern Michigan Eagles",
-      "home": "Ohio Bobcats",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "TBD",
-      "date": "2026-10-24T04:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
       "id": "401866450",
       "sport": "CFB",
       "away": "Western Michigan Broncos",
@@ -12337,6 +12285,32 @@
       "inProgress": false
     },
     {
+      "id": "401856727",
+      "sport": "CFB",
+      "away": "Texas A&M Aggies",
+      "home": "Alabama Crimson Tide",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "10/24 - 3:30 PM EDT",
+      "date": "2026-10-24T19:30Z",
+      "completed": false,
+      "inProgress": false
+    },
+    {
+      "id": "401858273",
+      "sport": "CFB",
+      "away": "Boston College Eagles",
+      "home": "Georgia Tech Yellow Jackets",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "10/24 - 3:30 PM EDT",
+      "date": "2026-10-24T19:30Z",
+      "completed": false,
+      "inProgress": false
+    },
+    {
       "id": "401862810",
       "sport": "CFB",
       "away": "North Texas Mean Green",
@@ -12346,6 +12320,19 @@
       "state": "pre",
       "statusText": "10/24 - 3:30 PM EDT",
       "date": "2026-10-24T19:30Z",
+      "completed": false,
+      "inProgress": false
+    },
+    {
+      "id": "401866449",
+      "sport": "CFB",
+      "away": "Eastern Michigan Eagles",
+      "home": "Ohio Bobcats",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "10/24 - 4:00 PM EDT",
+      "date": "2026-10-24T20:00Z",
       "completed": false,
       "inProgress": false
     },
@@ -12398,6 +12385,19 @@
       "state": "pre",
       "statusText": "10/24 - 7:00 PM EDT",
       "date": "2026-10-24T23:00Z",
+      "completed": false,
+      "inProgress": false
+    },
+    {
+      "id": "401856732",
+      "sport": "CFB",
+      "away": "Ole Miss Rebels",
+      "home": "Texas Longhorns",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "10/24 - 7:30 PM EDT",
+      "date": "2026-10-24T23:30Z",
       "completed": false,
       "inProgress": false
     },
