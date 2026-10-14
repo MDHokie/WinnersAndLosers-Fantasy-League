@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-14T06:08:04.571181+00:00",
+  "updated_at": "2026-10-14T11:51:21.367512+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 3,
@@ -12168,19 +12168,6 @@
       "inProgress": false
     },
     {
-      "id": "401864526",
-      "sport": "CFB",
-      "away": "Hawai'i Rainbow Warriors",
-      "home": "Northern Illinois Huskies",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/24 - 3:30 PM EDT",
-      "date": "2026-10-24T19:30Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
       "id": "401858273",
       "sport": "CFB",
       "away": "Boston College Eagles",
@@ -12198,6 +12185,19 @@
       "sport": "CFB",
       "away": "North Texas Mean Green",
       "home": "Navy Midshipmen",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "10/24 - 3:30 PM EDT",
+      "date": "2026-10-24T19:30Z",
+      "completed": false,
+      "inProgress": false
+    },
+    {
+      "id": "401864526",
+      "sport": "CFB",
+      "away": "Hawai'i Rainbow Warriors",
+      "home": "Northern Illinois Huskies",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
