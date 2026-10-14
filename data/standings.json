@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-13T21:14:23.660501+00:00",
+  "updated_at": "2026-10-14T00:20:17.340479+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 3,
@@ -10898,13 +10898,13 @@
       "sport": "CFB",
       "away": "Delaware Blue Hens",
       "home": "Middle Tennessee Blue Raiders",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/13 - 7:00 PM EDT",
+      "awayScore": 10,
+      "homeScore": 12,
+      "state": "in",
+      "statusText": "2:00 - 2nd",
       "date": "2026-10-13T23:00Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401871053",
@@ -10912,12 +10912,12 @@
       "away": "Florida International Panthers",
       "home": "Jacksonville State Gamecocks",
       "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/13 - 8:00 PM EDT",
+      "homeScore": 7,
+      "state": "in",
+      "statusText": "9:00 - 1st",
       "date": "2026-10-14T00:00Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401871054",
