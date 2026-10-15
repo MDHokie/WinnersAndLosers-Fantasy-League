@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-14T23:55:10.348594+00:00",
+  "updated_at": "2026-10-15T04:38:04.482581+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 3,
@@ -314,7 +314,7 @@
     },
     "CFB|Kennesaw State Owls": {
       "wins": 1,
-      "losses": 4,
+      "losses": 5,
       "ties": 0
     },
     "CFB|UAlbany Great Danes": {
@@ -468,7 +468,7 @@
       "ties": 0
     },
     "CFB|Missouri State Bears": {
-      "wins": 1,
+      "wins": 2,
       "losses": 4,
       "ties": 0
     },
@@ -904,7 +904,7 @@
     },
     "CFB|Sam Houston Bearkats": {
       "wins": 1,
-      "losses": 4,
+      "losses": 5,
       "ties": 0
     },
     "CFB|Troy Trojans": {
@@ -1053,7 +1053,7 @@
       "ties": 0
     },
     "CFB|Western Kentucky Hilltoppers": {
-      "wins": 2,
+      "wins": 3,
       "losses": 4,
       "ties": 0
     },
@@ -10924,25 +10924,25 @@
       "sport": "CFB",
       "away": "Kennesaw State Owls",
       "home": "Missouri State Bears",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "in",
-      "statusText": "5:21 - 1st",
+      "awayScore": 21,
+      "homeScore": 24,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-10-14T23:30Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401871068",
       "sport": "CFB",
       "away": "Western Kentucky Hilltoppers",
       "home": "Sam Houston Bearkats",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/14 - 8:00 PM EDT",
+      "awayScore": 16,
+      "homeScore": 3,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-10-15T00:00Z",
-      "completed": false,
+      "completed": true,
       "inProgress": false
     },
     {
