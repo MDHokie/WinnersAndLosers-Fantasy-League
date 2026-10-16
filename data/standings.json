@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-16T01:20:29.237444+00:00",
+  "updated_at": "2026-10-16T07:09:05.252503+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 3,
@@ -9,7 +9,7 @@
     },
     "NFL|Seattle Seahawks": {
       "wins": 3,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     },
     "NFL|San Francisco 49ers": {
@@ -153,7 +153,7 @@
       "ties": 1
     },
     "NFL|Denver Broncos": {
-      "wins": 3,
+      "wins": 4,
       "losses": 2,
       "ties": 0
     },
@@ -348,7 +348,7 @@
       "ties": 0
     },
     "CFB|UAB Blazers": {
-      "wins": 3,
+      "wins": 4,
       "losses": 3,
       "ties": 0
     },
@@ -448,7 +448,7 @@
       "ties": 0
     },
     "CFB|Texas State Bobcats": {
-      "wins": 2,
+      "wins": 3,
       "losses": 3,
       "ties": 0
     },
@@ -499,7 +499,7 @@
     },
     "CFB|East Carolina Pirates": {
       "wins": 3,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     },
     "CFB|Alabama Crimson Tide": {
@@ -809,7 +809,7 @@
     },
     "CFB|Colorado State Rams": {
       "wins": 2,
-      "losses": 3,
+      "losses": 4,
       "ties": 0
     },
     "CFB|Norfolk State Spartans": {
@@ -819,7 +819,7 @@
     },
     "CFB|Old Dominion Monarchs": {
       "wins": 2,
-      "losses": 4,
+      "losses": 5,
       "ties": 0
     },
     "CFB|Austin Peay Governors": {
@@ -888,7 +888,7 @@
       "ties": 0
     },
     "CFB|Georgia Southern Eagles": {
-      "wins": 2,
+      "wins": 3,
       "losses": 4,
       "ties": 0
     },
@@ -2565,13 +2565,13 @@
       "sport": "NFL",
       "away": "Seattle Seahawks",
       "home": "Denver Broncos",
-      "awayScore": 3,
-      "homeScore": 14,
-      "state": "in",
-      "statusText": "3:15 - 2nd",
+      "awayScore": 14,
+      "homeScore": 17,
+      "state": "post",
+      "statusText": "Final/OT",
       "date": "2026-10-16T00:15Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401872996",
@@ -10950,39 +10950,39 @@
       "sport": "CFB",
       "away": "East Carolina Pirates",
       "home": "UAB Blazers",
-      "awayScore": 14,
-      "homeScore": 3,
-      "state": "in",
-      "statusText": "Halftime",
+      "awayScore": 17,
+      "homeScore": 30,
+      "state": "post",
+      "statusText": "Final/OT",
       "date": "2026-10-15T23:30Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401869950",
       "sport": "CFB",
       "away": "Georgia Southern Eagles",
       "home": "Old Dominion Monarchs",
-      "awayScore": 16,
-      "homeScore": 7,
-      "state": "in",
-      "statusText": "Halftime",
+      "awayScore": 23,
+      "homeScore": 15,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-10-15T23:30Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401860923",
       "sport": "CFB",
       "away": "Colorado State Rams",
       "home": "Texas State Bobcats",
-      "awayScore": 13,
-      "homeScore": 35,
-      "state": "in",
-      "statusText": "2:50 - 2nd",
+      "awayScore": 27,
+      "homeScore": 66,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-10-16T00:00Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401862801",
