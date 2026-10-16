@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-15T22:17:07.824210+00:00",
+  "updated_at": "2026-10-16T01:20:29.237444+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 3,
@@ -2565,13 +2565,13 @@
       "sport": "NFL",
       "away": "Seattle Seahawks",
       "home": "Denver Broncos",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/15 - 8:15 PM EDT",
+      "awayScore": 3,
+      "homeScore": 14,
+      "state": "in",
+      "statusText": "3:15 - 2nd",
       "date": "2026-10-16T00:15Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401872996",
@@ -10950,39 +10950,39 @@
       "sport": "CFB",
       "away": "East Carolina Pirates",
       "home": "UAB Blazers",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/15 - 7:30 PM EDT",
+      "awayScore": 14,
+      "homeScore": 3,
+      "state": "in",
+      "statusText": "Halftime",
       "date": "2026-10-15T23:30Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401869950",
       "sport": "CFB",
       "away": "Georgia Southern Eagles",
       "home": "Old Dominion Monarchs",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/15 - 7:30 PM EDT",
+      "awayScore": 16,
+      "homeScore": 7,
+      "state": "in",
+      "statusText": "Halftime",
       "date": "2026-10-15T23:30Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401860923",
       "sport": "CFB",
       "away": "Colorado State Rams",
       "home": "Texas State Bobcats",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/15 - 8:00 PM EDT",
+      "awayScore": 13,
+      "homeScore": 35,
+      "state": "in",
+      "statusText": "2:50 - 2nd",
       "date": "2026-10-16T00:00Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401862801",
