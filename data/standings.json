@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-16T23:35:15.412172+00:00",
+  "updated_at": "2026-10-17T04:24:40.688256+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 3,
@@ -239,7 +239,7 @@
     },
     "CFB|Memphis Tigers": {
       "wins": 5,
-      "losses": 1,
+      "losses": 2,
       "ties": 0
     },
     "CFB|UNLV Rebels": {
@@ -384,7 +384,7 @@
     },
     "CFB|Purdue Boilermakers": {
       "wins": 3,
-      "losses": 3,
+      "losses": 4,
       "ties": 0
     },
     "CFB|North Carolina A&T Aggies": {
@@ -569,7 +569,7 @@
     },
     "CFB|Coastal Carolina Chanticleers": {
       "wins": 2,
-      "losses": 4,
+      "losses": 5,
       "ties": 0
     },
     "CFB|West Virginia Mountaineers": {
@@ -718,7 +718,7 @@
       "ties": 0
     },
     "CFB|Tulane Green Wave": {
-      "wins": 2,
+      "wins": 3,
       "losses": 3,
       "ties": 0
     },
@@ -768,7 +768,7 @@
       "ties": 0
     },
     "CFB|App State Mountaineers": {
-      "wins": 3,
+      "wins": 4,
       "losses": 2,
       "ties": 0
     },
@@ -1088,7 +1088,7 @@
       "ties": 0
     },
     "CFB|Washington Huskies": {
-      "wins": 3,
+      "wins": 4,
       "losses": 3,
       "ties": 0
     },
@@ -10989,12 +10989,12 @@
       "sport": "CFB",
       "away": "Memphis Tigers",
       "home": "Tulane Green Wave",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/16 - 7:30 PM EDT",
+      "awayScore": 17,
+      "homeScore": 31,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-10-16T23:30Z",
-      "completed": false,
+      "completed": true,
       "inProgress": false
     },
     {
@@ -11002,12 +11002,12 @@
       "sport": "CFB",
       "away": "Washington Huskies",
       "home": "Purdue Boilermakers",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/16 - 8:00 PM EDT",
+      "awayScore": 38,
+      "homeScore": 26,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-10-17T00:00Z",
-      "completed": false,
+      "completed": true,
       "inProgress": false
     },
     {
@@ -11015,12 +11015,12 @@
       "sport": "CFB",
       "away": "App State Mountaineers",
       "home": "Coastal Carolina Chanticleers",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/16 - 8:00 PM EDT",
+      "awayScore": 35,
+      "homeScore": 32,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-10-17T00:00Z",
-      "completed": false,
+      "completed": true,
       "inProgress": false
     },
     {
