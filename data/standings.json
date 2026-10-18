@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-18T11:03:35.613673+00:00",
+  "updated_at": "2026-10-18T14:34:19.812871+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 3,
@@ -2565,13 +2565,13 @@
       "sport": "NFL",
       "away": "Houston Texans",
       "home": "Jacksonville Jaguars",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/18 - 9:30 AM EDT",
+      "awayScore": 7,
+      "homeScore": 6,
+      "state": "in",
+      "statusText": "6:47 - 2nd",
       "date": "2026-10-18T13:30Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401872999",
@@ -11700,45 +11700,6 @@
       "inProgress": false
     },
     {
-      "id": "401871055",
-      "sport": "CFB",
-      "away": "Middle Tennessee Blue Raiders",
-      "home": "Florida International Panthers",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/20 - 7:00 PM EDT",
-      "date": "2026-10-20T23:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
-      "id": "401871069",
-      "sport": "CFB",
-      "away": "Missouri State Bears",
-      "home": "Delaware Blue Hens",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/20 - 7:00 PM EDT",
-      "date": "2026-10-20T23:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
-      "id": "401871092",
-      "sport": "CFB",
-      "away": "South Alabama Jaguars",
-      "home": "Marshall Thundering Herd",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/20 - 7:30 PM EDT",
-      "date": "2026-10-20T23:30Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
       "id": "401871070",
       "sport": "CFB",
       "away": "New Mexico State Aggies",
@@ -11964,19 +11925,6 @@
       "sport": "CFB",
       "away": "Kansas State Wildcats",
       "home": "Arizona State Sun Devils",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "TBD",
-      "date": "2026-10-24T04:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
-      "id": "401858276",
-      "sport": "CFB",
-      "away": "Virginia Tech Hokies",
-      "home": "Clemson Tigers",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -12320,6 +12268,19 @@
       "state": "pre",
       "statusText": "10/24 - 6:30 PM EDT",
       "date": "2026-10-24T22:30Z",
+      "completed": false,
+      "inProgress": false
+    },
+    {
+      "id": "401858276",
+      "sport": "CFB",
+      "away": "Virginia Tech Hokies",
+      "home": "Clemson Tigers",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "10/24 - 7:00 PM EDT",
+      "date": "2026-10-24T23:00Z",
       "completed": false,
       "inProgress": false
     },
