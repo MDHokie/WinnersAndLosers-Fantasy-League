@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-17T22:17:59.186553+00:00",
+  "updated_at": "2026-10-18T01:02:02.440297+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 3,
@@ -178,7 +178,7 @@
       "ties": 0
     },
     "CFB|North Carolina Tar Heels": {
-      "wins": 3,
+      "wins": 4,
       "losses": 2,
       "ties": 0
     },
@@ -214,7 +214,7 @@
     },
     "CFB|Eastern Michigan Eagles": {
       "wins": 4,
-      "losses": 3,
+      "losses": 4,
       "ties": 0
     },
     "CFB|Hawai'i Rainbow Warriors": {
@@ -244,7 +244,7 @@
     },
     "CFB|UNLV Rebels": {
       "wins": 4,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     },
     "CFB|Idaho Vandals": {
@@ -264,7 +264,7 @@
     },
     "CFB|Missouri Tigers": {
       "wins": 5,
-      "losses": 1,
+      "losses": 2,
       "ties": 0
     },
     "CFB|Massachusetts Minutemen": {
@@ -289,7 +289,7 @@
     },
     "CFB|Akron Zips": {
       "wins": 1,
-      "losses": 5,
+      "losses": 6,
       "ties": 0
     },
     "CFB|Wake Forest Demon Deacons": {
@@ -334,7 +334,7 @@
     },
     "CFB|Georgia Tech Yellow Jackets": {
       "wins": 2,
-      "losses": 3,
+      "losses": 4,
       "ties": 0
     },
     "CFB|Eastern Illinois Panthers": {
@@ -408,7 +408,7 @@
       "ties": 0
     },
     "CFB|Toledo Rockets": {
-      "wins": 4,
+      "wins": 5,
       "losses": 2,
       "ties": 0
     },
@@ -444,7 +444,7 @@
     },
     "CFB|Georgia Bulldogs": {
       "wins": 6,
-      "losses": 0,
+      "losses": 1,
       "ties": 0
     },
     "CFB|Texas State Bobcats": {
@@ -493,7 +493,7 @@
       "ties": 0
     },
     "CFB|Texas Tech Red Raiders": {
-      "wins": 5,
+      "wins": 6,
       "losses": 0,
       "ties": 0
     },
@@ -504,7 +504,7 @@
     },
     "CFB|Alabama Crimson Tide": {
       "wins": 5,
-      "losses": 1,
+      "losses": 2,
       "ties": 0
     },
     "CFB|Utah Tech Trailblazers": {
@@ -523,7 +523,7 @@
       "ties": 0
     },
     "CFB|Michigan Wolverines": {
-      "wins": 3,
+      "wins": 4,
       "losses": 2,
       "ties": 0
     },
@@ -534,7 +534,7 @@
     },
     "CFB|Penn State Nittany Lions": {
       "wins": 3,
-      "losses": 3,
+      "losses": 4,
       "ties": 0
     },
     "CFB|Furman Paladins": {
@@ -543,13 +543,13 @@
       "ties": 0
     },
     "CFB|Tennessee Volunteers": {
-      "wins": 5,
+      "wins": 6,
       "losses": 1,
       "ties": 0
     },
     "CFB|Northern Illinois Huskies": {
       "wins": 0,
-      "losses": 5,
+      "losses": 6,
       "ties": 0
     },
     "CFB|Iowa Hawkeyes": {
@@ -638,7 +638,7 @@
       "ties": 0
     },
     "CFB|Miami (OH) RedHawks": {
-      "wins": 3,
+      "wins": 4,
       "losses": 3,
       "ties": 0
     },
@@ -683,7 +683,7 @@
       "ties": 0
     },
     "CFB|Air Force Falcons": {
-      "wins": 4,
+      "wins": 5,
       "losses": 1,
       "ties": 0
     },
@@ -703,7 +703,7 @@
       "ties": 0
     },
     "CFB|Auburn Tigers": {
-      "wins": 3,
+      "wins": 4,
       "losses": 2,
       "ties": 0
     },
@@ -724,7 +724,7 @@
     },
     "CFB|Duke Blue Devils": {
       "wins": 4,
-      "losses": 1,
+      "losses": 2,
       "ties": 0
     },
     "CFB|The Citadel Bulldogs": {
@@ -778,7 +778,7 @@
       "ties": 0
     },
     "CFB|Tulsa Golden Hurricane": {
-      "wins": 3,
+      "wins": 4,
       "losses": 3,
       "ties": 0
     },
@@ -803,7 +803,7 @@
       "ties": 0
     },
     "CFB|Wyoming Cowboys": {
-      "wins": 3,
+      "wins": 4,
       "losses": 3,
       "ties": 0
     },
@@ -864,7 +864,7 @@
     },
     "CFB|Rice Owls": {
       "wins": 1,
-      "losses": 5,
+      "losses": 6,
       "ties": 0
     },
     "CFB|Florida International Panthers": {
@@ -909,7 +909,7 @@
     },
     "CFB|Troy Trojans": {
       "wins": 3,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     },
     "CFB|UL Monroe Warhawks": {
@@ -928,7 +928,7 @@
       "ties": 0
     },
     "CFB|Virginia Tech Hokies": {
-      "wins": 4,
+      "wins": 5,
       "losses": 2,
       "ties": 0
     },
@@ -988,7 +988,7 @@
       "ties": 0
     },
     "CFB|Louisiana Ragin' Cajuns": {
-      "wins": 4,
+      "wins": 5,
       "losses": 2,
       "ties": 0
     },
@@ -1024,7 +1024,7 @@
     },
     "CFB|Arizona State Sun Devils": {
       "wins": 3,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     },
     "CFB|Central Michigan Chippewas": {
@@ -1078,7 +1078,7 @@
       "ties": 0
     },
     "CFB|Ole Miss Rebels": {
-      "wins": 4,
+      "wins": 5,
       "losses": 1,
       "ties": 0
     },
@@ -11024,186 +11024,212 @@
       "inProgress": false
     },
     {
-      "id": "401856719",
-      "sport": "CFB",
-      "away": "Auburn Tigers",
-      "home": "Georgia Bulldogs",
-      "awayScore": 24,
-      "homeScore": 17,
-      "state": "in",
-      "statusText": "12:10 - 4th",
-      "date": "2026-10-17T19:30Z",
-      "completed": false,
-      "inProgress": true
-    },
-    {
-      "id": "401856723",
-      "sport": "CFB",
-      "away": "Alabama Crimson Tide",
-      "home": "Tennessee Volunteers",
-      "awayScore": 10,
-      "homeScore": 19,
-      "state": "in",
-      "statusText": "3:39 - 3rd",
-      "date": "2026-10-17T19:30Z",
-      "completed": false,
-      "inProgress": true
-    },
-    {
-      "id": "401856721",
-      "sport": "CFB",
-      "away": "Missouri Tigers",
-      "home": "Ole Miss Rebels",
-      "awayScore": 3,
-      "homeScore": 21,
-      "state": "in",
-      "statusText": "14:53 - 4th",
-      "date": "2026-10-17T19:30Z",
-      "completed": false,
-      "inProgress": true
-    },
-    {
-      "id": "401856828",
-      "sport": "CFB",
-      "away": "Arizona State Sun Devils",
-      "home": "Texas Tech Red Raiders",
-      "awayScore": 17,
-      "homeScore": 43,
-      "state": "in",
-      "statusText": "3:17 - 3rd",
-      "date": "2026-10-17T19:30Z",
-      "completed": false,
-      "inProgress": true
-    },
-    {
-      "id": "401858264",
-      "sport": "CFB",
-      "away": "Georgia Tech Yellow Jackets",
-      "home": "Virginia Tech Hokies",
-      "awayScore": 17,
-      "homeScore": 34,
-      "state": "in",
-      "statusText": "6:51 - 4th",
-      "date": "2026-10-17T19:30Z",
-      "completed": false,
-      "inProgress": true
-    },
-    {
-      "id": "401858266",
-      "sport": "CFB",
-      "away": "North Carolina Tar Heels",
-      "home": "Duke Blue Devils",
-      "awayScore": 17,
-      "homeScore": 10,
-      "state": "in",
-      "statusText": "End of 3rd",
-      "date": "2026-10-17T19:30Z",
-      "completed": false,
-      "inProgress": true
-    },
-    {
-      "id": "401858490",
-      "sport": "CFB",
-      "away": "Penn State Nittany Lions",
-      "home": "Michigan Wolverines",
-      "awayScore": 3,
-      "homeScore": 14,
-      "state": "in",
-      "statusText": "End of 3rd",
-      "date": "2026-10-17T19:30Z",
-      "completed": false,
-      "inProgress": true
-    },
-    {
-      "id": "401864522",
-      "sport": "CFB",
-      "away": "Northern Illinois Huskies",
-      "home": "Wyoming Cowboys",
-      "awayScore": 17,
-      "homeScore": 34,
-      "state": "in",
-      "statusText": "14:54 - 4th",
-      "date": "2026-10-17T19:30Z",
-      "completed": false,
-      "inProgress": true
-    },
-    {
-      "id": "401864524",
-      "sport": "CFB",
-      "away": "UNLV Rebels",
-      "home": "Air Force Falcons",
-      "awayScore": 24,
-      "homeScore": 34,
-      "state": "in",
-      "statusText": "8:17 - 4th",
-      "date": "2026-10-17T19:30Z",
-      "completed": false,
-      "inProgress": true
-    },
-    {
-      "id": "401866444",
-      "sport": "CFB",
-      "away": "Toledo Rockets",
-      "home": "Eastern Michigan Eagles",
-      "awayScore": 34,
-      "homeScore": 14,
-      "state": "in",
-      "statusText": "0:37 - 3rd",
-      "date": "2026-10-17T19:30Z",
-      "completed": false,
-      "inProgress": true
-    },
-    {
-      "id": "401866478",
-      "sport": "CFB",
-      "away": "Akron Zips",
-      "home": "Miami (OH) RedHawks",
-      "awayScore": 14,
-      "homeScore": 34,
-      "state": "in",
-      "statusText": "13:57 - 4th",
-      "date": "2026-10-17T19:30Z",
-      "completed": false,
-      "inProgress": true
-    },
-    {
-      "id": "401862805",
-      "sport": "CFB",
-      "away": "Tulsa Golden Hurricane",
-      "home": "Rice Owls",
-      "awayScore": 21,
-      "homeScore": 17,
-      "state": "in",
-      "statusText": "Halftime",
-      "date": "2026-10-17T20:30Z",
-      "completed": false,
-      "inProgress": true
-    },
-    {
-      "id": "401869966",
-      "sport": "CFB",
-      "away": "Troy Trojans",
-      "home": "Louisiana Ragin' Cajuns",
-      "awayScore": 0,
-      "homeScore": 13,
-      "state": "in",
-      "statusText": "2:00 - 2nd",
-      "date": "2026-10-17T21:00Z",
-      "completed": false,
-      "inProgress": true
-    },
-    {
       "id": "401860903",
       "sport": "CFB",
       "away": "Washington State Cougars",
       "home": "Oregon State Beavers",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 16,
+      "homeScore": 41,
       "state": "in",
-      "statusText": "13:22 - 1st",
+      "statusText": "11:20 - 4th",
       "date": "2026-10-17T22:00Z",
       "completed": false,
       "inProgress": true
+    },
+    {
+      "id": "401858263",
+      "sport": "CFB",
+      "away": "Florida State Seminoles",
+      "home": "Miami Hurricanes",
+      "awayScore": 14,
+      "homeScore": 14,
+      "state": "in",
+      "statusText": "Halftime",
+      "date": "2026-10-17T23:00Z",
+      "completed": false,
+      "inProgress": true
+    },
+    {
+      "id": "401856726",
+      "sport": "CFB",
+      "away": "Arkansas Razorbacks",
+      "home": "Vanderbilt Commodores",
+      "awayScore": 21,
+      "homeScore": 14,
+      "state": "in",
+      "statusText": "11:17 - 3rd",
+      "date": "2026-10-17T23:00Z",
+      "completed": false,
+      "inProgress": true
+    },
+    {
+      "id": "401856832",
+      "sport": "CFB",
+      "away": "TCU Horned Frogs",
+      "home": "Baylor Bears",
+      "awayScore": 13,
+      "homeScore": 6,
+      "state": "in",
+      "statusText": "14:16 - 3rd",
+      "date": "2026-10-17T23:00Z",
+      "completed": false,
+      "inProgress": true
+    },
+    {
+      "id": "401862806",
+      "sport": "CFB",
+      "away": "Kent State Golden Flashes",
+      "home": "South Florida Bulls",
+      "awayScore": 2,
+      "homeScore": 10,
+      "state": "in",
+      "statusText": "12:09 - 3rd",
+      "date": "2026-10-17T23:00Z",
+      "completed": false,
+      "inProgress": true
+    },
+    {
+      "id": "401864520",
+      "sport": "CFB",
+      "away": "Nevada Wolf Pack",
+      "home": "North Dakota State Bison",
+      "awayScore": 11,
+      "homeScore": 19,
+      "state": "in",
+      "statusText": "12:29 - 3rd",
+      "date": "2026-10-17T23:00Z",
+      "completed": false,
+      "inProgress": true
+    },
+    {
+      "id": "401869934",
+      "sport": "CFB",
+      "away": "Arkansas State Red Wolves",
+      "home": "Southern Miss Golden Eagles",
+      "awayScore": 16,
+      "homeScore": 7,
+      "state": "in",
+      "statusText": "10:56 - 3rd",
+      "date": "2026-10-17T23:00Z",
+      "completed": false,
+      "inProgress": true
+    },
+    {
+      "id": "401856809",
+      "sport": "CFB",
+      "away": "Notre Dame Fighting Irish",
+      "home": "BYU Cougars",
+      "awayScore": 10,
+      "homeScore": 14,
+      "state": "in",
+      "statusText": "1:39 - 2nd",
+      "date": "2026-10-17T23:30Z",
+      "completed": false,
+      "inProgress": true
+    },
+    {
+      "id": "401858494",
+      "sport": "CFB",
+      "away": "Wisconsin Badgers",
+      "home": "UCLA Bruins",
+      "awayScore": 0,
+      "homeScore": 10,
+      "state": "in",
+      "statusText": "Halftime",
+      "date": "2026-10-17T23:30Z",
+      "completed": false,
+      "inProgress": true
+    },
+    {
+      "id": "401856722",
+      "sport": "CFB",
+      "away": "Kentucky Wildcats",
+      "home": "Oklahoma Sooners",
+      "awayScore": 7,
+      "homeScore": 10,
+      "state": "in",
+      "statusText": "Halftime",
+      "date": "2026-10-17T23:30Z",
+      "completed": false,
+      "inProgress": true
+    },
+    {
+      "id": "401856831",
+      "sport": "CFB",
+      "away": "Oklahoma State Cowboys",
+      "home": "Houston Cougars",
+      "awayScore": 3,
+      "homeScore": 14,
+      "state": "in",
+      "statusText": "1:44 - 2nd",
+      "date": "2026-10-17T23:30Z",
+      "completed": false,
+      "inProgress": true
+    },
+    {
+      "id": "401858262",
+      "sport": "CFB",
+      "away": "Elon Phoenix",
+      "home": "Stanford Cardinal",
+      "awayScore": 0,
+      "homeScore": 14,
+      "state": "in",
+      "statusText": "Halftime",
+      "date": "2026-10-17T23:30Z",
+      "completed": false,
+      "inProgress": true
+    },
+    {
+      "id": "401858265",
+      "sport": "CFB",
+      "away": "Louisville Cardinals",
+      "home": "Syracuse Orange",
+      "awayScore": 21,
+      "homeScore": 23,
+      "state": "in",
+      "statusText": "2:16 - 2nd",
+      "date": "2026-10-17T23:30Z",
+      "completed": false,
+      "inProgress": true
+    },
+    {
+      "id": "401862804",
+      "sport": "CFB",
+      "away": "Navy Midshipmen",
+      "home": "UTSA Roadrunners",
+      "awayScore": 14,
+      "homeScore": 0,
+      "state": "in",
+      "statusText": "13:08 - 2nd",
+      "date": "2026-10-18T00:00Z",
+      "completed": false,
+      "inProgress": true
+    },
+    {
+      "id": "401871091",
+      "sport": "CFB",
+      "away": "Louisiana Tech Bulldogs",
+      "home": "UL Monroe Warhawks",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "in",
+      "statusText": "8:36 - 2nd",
+      "date": "2026-10-18T00:00Z",
+      "completed": false,
+      "inProgress": true
+    },
+    {
+      "id": "401856719",
+      "sport": "CFB",
+      "away": "Auburn Tigers",
+      "home": "Georgia Bulldogs",
+      "awayScore": 27,
+      "homeScore": 24,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-10-17T19:30Z",
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401858488",
@@ -11219,6 +11245,19 @@
       "inProgress": false
     },
     {
+      "id": "401856723",
+      "sport": "CFB",
+      "away": "Alabama Crimson Tide",
+      "home": "Tennessee Volunteers",
+      "awayScore": 10,
+      "homeScore": 26,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-10-17T19:30Z",
+      "completed": true,
+      "inProgress": false
+    },
+    {
       "id": "401856724",
       "sport": "CFB",
       "away": "Florida Gators",
@@ -11228,6 +11267,32 @@
       "state": "post",
       "statusText": "Final",
       "date": "2026-10-17T16:00Z",
+      "completed": true,
+      "inProgress": false
+    },
+    {
+      "id": "401856721",
+      "sport": "CFB",
+      "away": "Missouri Tigers",
+      "home": "Ole Miss Rebels",
+      "awayScore": 3,
+      "homeScore": 31,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-10-17T19:30Z",
+      "completed": true,
+      "inProgress": false
+    },
+    {
+      "id": "401856828",
+      "sport": "CFB",
+      "away": "Arizona State Sun Devils",
+      "home": "Texas Tech Red Raiders",
+      "awayScore": 25,
+      "homeScore": 53,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-10-17T19:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -11427,185 +11492,120 @@
       "inProgress": false
     },
     {
-      "id": "401858263",
+      "id": "401858264",
       "sport": "CFB",
-      "away": "Florida State Seminoles",
-      "home": "Miami Hurricanes",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/17 - 7:00 PM EDT",
-      "date": "2026-10-17T23:00Z",
-      "completed": false,
+      "away": "Georgia Tech Yellow Jackets",
+      "home": "Virginia Tech Hokies",
+      "awayScore": 24,
+      "homeScore": 34,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-10-17T19:30Z",
+      "completed": true,
       "inProgress": false
     },
     {
-      "id": "401856726",
+      "id": "401858266",
       "sport": "CFB",
-      "away": "Arkansas Razorbacks",
-      "home": "Vanderbilt Commodores",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/17 - 7:00 PM EDT",
-      "date": "2026-10-17T23:00Z",
-      "completed": false,
+      "away": "North Carolina Tar Heels",
+      "home": "Duke Blue Devils",
+      "awayScore": 24,
+      "homeScore": 20,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-10-17T19:30Z",
+      "completed": true,
       "inProgress": false
     },
     {
-      "id": "401856832",
+      "id": "401858490",
       "sport": "CFB",
-      "away": "TCU Horned Frogs",
-      "home": "Baylor Bears",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/17 - 7:00 PM EDT",
-      "date": "2026-10-17T23:00Z",
-      "completed": false,
+      "away": "Penn State Nittany Lions",
+      "home": "Michigan Wolverines",
+      "awayScore": 18,
+      "homeScore": 21,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-10-17T19:30Z",
+      "completed": true,
       "inProgress": false
     },
     {
-      "id": "401862806",
+      "id": "401864522",
       "sport": "CFB",
-      "away": "Kent State Golden Flashes",
-      "home": "South Florida Bulls",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/17 - 7:00 PM EDT",
-      "date": "2026-10-17T23:00Z",
-      "completed": false,
+      "away": "Northern Illinois Huskies",
+      "home": "Wyoming Cowboys",
+      "awayScore": 23,
+      "homeScore": 41,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-10-17T19:30Z",
+      "completed": true,
       "inProgress": false
     },
     {
-      "id": "401864520",
+      "id": "401864524",
       "sport": "CFB",
-      "away": "Nevada Wolf Pack",
-      "home": "North Dakota State Bison",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/17 - 7:00 PM EDT",
-      "date": "2026-10-17T23:00Z",
-      "completed": false,
+      "away": "UNLV Rebels",
+      "home": "Air Force Falcons",
+      "awayScore": 31,
+      "homeScore": 41,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-10-17T19:30Z",
+      "completed": true,
       "inProgress": false
     },
     {
-      "id": "401869934",
+      "id": "401866444",
       "sport": "CFB",
-      "away": "Arkansas State Red Wolves",
-      "home": "Southern Miss Golden Eagles",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/17 - 7:00 PM EDT",
-      "date": "2026-10-17T23:00Z",
-      "completed": false,
+      "away": "Toledo Rockets",
+      "home": "Eastern Michigan Eagles",
+      "awayScore": 34,
+      "homeScore": 14,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-10-17T19:30Z",
+      "completed": true,
       "inProgress": false
     },
     {
-      "id": "401856809",
+      "id": "401866478",
       "sport": "CFB",
-      "away": "Notre Dame Fighting Irish",
-      "home": "BYU Cougars",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/17 - 7:30 PM EDT",
-      "date": "2026-10-17T23:30Z",
-      "completed": false,
+      "away": "Akron Zips",
+      "home": "Miami (OH) RedHawks",
+      "awayScore": 14,
+      "homeScore": 34,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-10-17T19:30Z",
+      "completed": true,
       "inProgress": false
     },
     {
-      "id": "401858494",
+      "id": "401862805",
       "sport": "CFB",
-      "away": "Wisconsin Badgers",
-      "home": "UCLA Bruins",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/17 - 7:30 PM EDT",
-      "date": "2026-10-17T23:30Z",
-      "completed": false,
+      "away": "Tulsa Golden Hurricane",
+      "home": "Rice Owls",
+      "awayScore": 38,
+      "homeScore": 17,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-10-17T20:30Z",
+      "completed": true,
       "inProgress": false
     },
     {
-      "id": "401856722",
+      "id": "401869966",
       "sport": "CFB",
-      "away": "Kentucky Wildcats",
-      "home": "Oklahoma Sooners",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/17 - 7:30 PM EDT",
-      "date": "2026-10-17T23:30Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
-      "id": "401856831",
-      "sport": "CFB",
-      "away": "Oklahoma State Cowboys",
-      "home": "Houston Cougars",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/17 - 7:30 PM EDT",
-      "date": "2026-10-17T23:30Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
-      "id": "401858262",
-      "sport": "CFB",
-      "away": "Elon Phoenix",
-      "home": "Stanford Cardinal",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/17 - 7:30 PM EDT",
-      "date": "2026-10-17T23:30Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
-      "id": "401858265",
-      "sport": "CFB",
-      "away": "Louisville Cardinals",
-      "home": "Syracuse Orange",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/17 - 7:30 PM EDT",
-      "date": "2026-10-17T23:30Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
-      "id": "401862804",
-      "sport": "CFB",
-      "away": "Navy Midshipmen",
-      "home": "UTSA Roadrunners",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/17 - 8:00 PM EDT",
-      "date": "2026-10-18T00:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
-      "id": "401871091",
-      "sport": "CFB",
-      "away": "Louisiana Tech Bulldogs",
-      "home": "UL Monroe Warhawks",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/17 - 8:00 PM EDT",
-      "date": "2026-10-18T00:00Z",
-      "completed": false,
+      "away": "Troy Trojans",
+      "home": "Louisiana Ragin' Cajuns",
+      "awayScore": 6,
+      "homeScore": 33,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-10-17T21:00Z",
+      "completed": true,
       "inProgress": false
     },
     {
