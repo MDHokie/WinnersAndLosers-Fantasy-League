@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-19T01:17:09.154947+00:00",
+  "updated_at": "2026-10-19T07:45:50.652819+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 4,
@@ -113,7 +113,7 @@
       "ties": 0
     },
     "NFL|Green Bay Packers": {
-      "wins": 3,
+      "wins": 4,
       "losses": 2,
       "ties": 0
     },
@@ -144,7 +144,7 @@
     },
     "NFL|Dallas Cowboys": {
       "wins": 2,
-      "losses": 3,
+      "losses": 4,
       "ties": 0
     },
     "NFL|New York Giants": {
@@ -2561,17 +2561,30 @@
       "inProgress": false
     },
     {
-      "id": "401873007",
+      "id": "401873008",
       "sport": "NFL",
-      "away": "Dallas Cowboys",
-      "home": "Green Bay Packers",
+      "away": "Washington Commanders",
+      "home": "San Francisco 49ers",
       "awayScore": 0,
-      "homeScore": 7,
-      "state": "in",
-      "statusText": "10:37 - 2nd",
-      "date": "2026-10-19T00:20Z",
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "10/19 - 8:15 PM EDT",
+      "date": "2026-10-20T00:15Z",
       "completed": false,
-      "inProgress": true
+      "inProgress": false
+    },
+    {
+      "id": "401872995",
+      "sport": "NFL",
+      "away": "Seattle Seahawks",
+      "home": "Denver Broncos",
+      "awayScore": 14,
+      "homeScore": 17,
+      "state": "post",
+      "statusText": "Final/OT",
+      "date": "2026-10-16T00:15Z",
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401872996",
@@ -2717,29 +2730,16 @@
       "inProgress": false
     },
     {
-      "id": "401872995",
+      "id": "401873007",
       "sport": "NFL",
-      "away": "Seattle Seahawks",
-      "home": "Denver Broncos",
-      "awayScore": 14,
-      "homeScore": 17,
+      "away": "Dallas Cowboys",
+      "home": "Green Bay Packers",
+      "awayScore": 13,
+      "homeScore": 23,
       "state": "post",
-      "statusText": "Final/OT",
-      "date": "2026-10-16T00:15Z",
+      "statusText": "Final",
+      "date": "2026-10-19T00:20Z",
       "completed": true,
-      "inProgress": false
-    },
-    {
-      "id": "401873008",
-      "sport": "NFL",
-      "away": "Washington Commanders",
-      "home": "San Francisco 49ers",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/19 - 8:15 PM EDT",
-      "date": "2026-10-20T00:15Z",
-      "completed": false,
       "inProgress": false
     },
     {
