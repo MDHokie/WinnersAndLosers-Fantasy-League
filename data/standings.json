@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-20T00:19:41.221017+00:00",
+  "updated_at": "2026-10-20T06:00:23.294217+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 4,
@@ -13,7 +13,7 @@
       "ties": 0
     },
     "NFL|San Francisco 49ers": {
-      "wins": 5,
+      "wins": 6,
       "losses": 0,
       "ties": 0
     },
@@ -124,7 +124,7 @@
     },
     "NFL|Washington Commanders": {
       "wins": 1,
-      "losses": 3,
+      "losses": 4,
       "ties": 1
     },
     "NFL|Philadelphia Eagles": {
@@ -2561,19 +2561,6 @@
       "inProgress": false
     },
     {
-      "id": "401873008",
-      "sport": "NFL",
-      "away": "Washington Commanders",
-      "home": "San Francisco 49ers",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "in",
-      "statusText": "13:58 - 1st",
-      "date": "2026-10-20T00:15Z",
-      "completed": false,
-      "inProgress": true
-    },
-    {
       "id": "401872995",
       "sport": "NFL",
       "away": "Seattle Seahawks",
@@ -2739,6 +2726,19 @@
       "state": "post",
       "statusText": "Final",
       "date": "2026-10-19T00:20Z",
+      "completed": true,
+      "inProgress": false
+    },
+    {
+      "id": "401873008",
+      "sport": "NFL",
+      "away": "Washington Commanders",
+      "home": "San Francisco 49ers",
+      "awayScore": 17,
+      "homeScore": 23,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-10-20T00:15Z",
       "completed": true,
       "inProgress": false
     },
