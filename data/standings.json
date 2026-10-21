@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-20T23:52:11.066117+00:00",
+  "updated_at": "2026-10-21T04:45:10.123898+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 4,
@@ -303,7 +303,7 @@
       "ties": 0
     },
     "CFB|Delaware Blue Hens": {
-      "wins": 2,
+      "wins": 3,
       "losses": 4,
       "ties": 0
     },
@@ -469,7 +469,7 @@
     },
     "CFB|Missouri State Bears": {
       "wins": 2,
-      "losses": 4,
+      "losses": 5,
       "ties": 0
     },
     "CFB|Texas A&M Aggies": {
@@ -528,7 +528,7 @@
       "ties": 0
     },
     "CFB|Marshall Thundering Herd": {
-      "wins": 3,
+      "wins": 4,
       "losses": 3,
       "ties": 0
     },
@@ -869,7 +869,7 @@
     },
     "CFB|Florida International Panthers": {
       "wins": 3,
-      "losses": 3,
+      "losses": 4,
       "ties": 0
     },
     "CFB|South Florida Bulls": {
@@ -899,7 +899,7 @@
     },
     "CFB|South Alabama Jaguars": {
       "wins": 4,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     },
     "CFB|Sam Houston Bearkats": {
@@ -958,7 +958,7 @@
       "ties": 0
     },
     "CFB|Middle Tennessee Blue Raiders": {
-      "wins": 3,
+      "wins": 4,
       "losses": 3,
       "ties": 0
     },
@@ -11704,39 +11704,39 @@
       "sport": "CFB",
       "away": "Middle Tennessee Blue Raiders",
       "home": "Florida International Panthers",
-      "awayScore": 7,
-      "homeScore": 8,
-      "state": "in",
-      "statusText": "13:47 - 2nd",
+      "awayScore": 26,
+      "homeScore": 23,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-10-20T23:00Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401871069",
       "sport": "CFB",
       "away": "Missouri State Bears",
       "home": "Delaware Blue Hens",
-      "awayScore": 14,
-      "homeScore": 14,
-      "state": "in",
-      "statusText": "12:39 - 2nd",
+      "awayScore": 38,
+      "homeScore": 61,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-10-20T23:00Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401871092",
       "sport": "CFB",
       "away": "South Alabama Jaguars",
       "home": "Marshall Thundering Herd",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "in",
-      "statusText": "9:27 - 1st",
+      "awayScore": 13,
+      "homeScore": 20,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-10-20T23:30Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401871070",
