@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-22T20:06:40.186836+00:00",
+  "updated_at": "2026-10-22T23:22:25.760485+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 4,
@@ -11756,26 +11756,26 @@
       "sport": "CFB",
       "away": "James Madison Dukes",
       "home": "App State Mountaineers",
-      "awayScore": 0,
+      "awayScore": 7,
       "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/22 - 7:00 PM EDT",
+      "state": "in",
+      "statusText": "9:34 - 1st",
       "date": "2026-10-22T23:00Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401871056",
       "sport": "CFB",
       "away": "Liberty Flames",
       "home": "Kennesaw State Owls",
-      "awayScore": 0,
+      "awayScore": 7,
       "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/22 - 7:00 PM EDT",
+      "state": "in",
+      "statusText": "7:11 - 1st",
       "date": "2026-10-22T23:00Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401862807",
