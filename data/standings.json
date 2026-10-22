@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-21T23:18:24.798743+00:00",
+  "updated_at": "2026-10-22T04:43:25.870539+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 4,
@@ -228,7 +228,7 @@
       "ties": 0
     },
     "CFB|New Mexico State Aggies": {
-      "wins": 2,
+      "wins": 3,
       "losses": 4,
       "ties": 0
     },
@@ -904,7 +904,7 @@
     },
     "CFB|Sam Houston Bearkats": {
       "wins": 1,
-      "losses": 5,
+      "losses": 6,
       "ties": 0
     },
     "CFB|Troy Trojans": {
@@ -11743,12 +11743,12 @@
       "sport": "CFB",
       "away": "New Mexico State Aggies",
       "home": "Sam Houston Bearkats",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/21 - 8:00 PM EDT",
+      "awayScore": 30,
+      "homeScore": 24,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-10-22T00:00Z",
-      "completed": false,
+      "completed": true,
       "inProgress": false
     },
     {
