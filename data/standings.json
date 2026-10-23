@@ -1,10 +1,10 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-22T23:22:25.760485+00:00",
+  "updated_at": "2026-10-23T04:48:17.936889+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 4,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     },
     "NFL|Seattle Seahawks": {
@@ -73,7 +73,7 @@
       "ties": 0
     },
     "NFL|Chicago Bears": {
-      "wins": 4,
+      "wins": 5,
       "losses": 2,
       "ties": 0
     },
@@ -238,7 +238,7 @@
       "ties": 0
     },
     "CFB|Memphis Tigers": {
-      "wins": 5,
+      "wins": 6,
       "losses": 2,
       "ties": 0
     },
@@ -314,7 +314,7 @@
     },
     "CFB|Kennesaw State Owls": {
       "wins": 1,
-      "losses": 5,
+      "losses": 6,
       "ties": 0
     },
     "CFB|UAlbany Great Danes": {
@@ -499,7 +499,7 @@
     },
     "CFB|East Carolina Pirates": {
       "wins": 3,
-      "losses": 3,
+      "losses": 4,
       "ties": 0
     },
     "CFB|Alabama Crimson Tide": {
@@ -628,13 +628,13 @@
       "ties": 0
     },
     "CFB|Liberty Flames": {
-      "wins": 5,
+      "wins": 6,
       "losses": 1,
       "ties": 0
     },
     "CFB|James Madison Dukes": {
       "wins": 7,
-      "losses": 0,
+      "losses": 1,
       "ties": 0
     },
     "CFB|Miami (OH) RedHawks": {
@@ -768,7 +768,7 @@
       "ties": 0
     },
     "CFB|App State Mountaineers": {
-      "wins": 4,
+      "wins": 5,
       "losses": 2,
       "ties": 0
     },
@@ -2747,12 +2747,12 @@
       "sport": "NFL",
       "away": "New England Patriots",
       "home": "Chicago Bears",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/22 - 8:15 PM EDT",
+      "awayScore": 24,
+      "homeScore": 30,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-10-23T00:15Z",
-      "completed": false,
+      "completed": true,
       "inProgress": false
     },
     {
@@ -11756,38 +11756,38 @@
       "sport": "CFB",
       "away": "James Madison Dukes",
       "home": "App State Mountaineers",
-      "awayScore": 7,
-      "homeScore": 0,
-      "state": "in",
-      "statusText": "9:34 - 1st",
+      "awayScore": 31,
+      "homeScore": 34,
+      "state": "post",
+      "statusText": "Final/OT",
       "date": "2026-10-22T23:00Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401871056",
       "sport": "CFB",
       "away": "Liberty Flames",
       "home": "Kennesaw State Owls",
-      "awayScore": 7,
-      "homeScore": 0,
-      "state": "in",
-      "statusText": "7:11 - 1st",
+      "awayScore": 34,
+      "homeScore": 6,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-10-22T23:00Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401862807",
       "sport": "CFB",
       "away": "East Carolina Pirates",
       "home": "Memphis Tigers",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/22 - 7:30 PM EDT",
+      "awayScore": 34,
+      "homeScore": 41,
+      "state": "post",
+      "statusText": "Final/OT",
       "date": "2026-10-22T23:30Z",
-      "completed": false,
+      "completed": true,
       "inProgress": false
     },
     {
