@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-24T05:52:32.712195+00:00",
+  "updated_at": "2026-10-24T10:58:59.231768+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 4,
@@ -189,7 +189,7 @@
     },
     "CFB|NC State Wolfpack": {
       "wins": 3,
-      "losses": 3,
+      "losses": 4,
       "ties": 0
     },
     "CFB|Virginia Cavaliers": {
@@ -223,7 +223,7 @@
       "ties": 0
     },
     "CFB|Stanford Cardinal": {
-      "wins": 3,
+      "wins": 4,
       "losses": 4,
       "ties": 0
     },
@@ -11791,19 +11791,6 @@
       "inProgress": false
     },
     {
-      "id": "401858272",
-      "sport": "CFB",
-      "away": "NC State Wolfpack",
-      "home": "Stanford Cardinal",
-      "awayScore": 21,
-      "homeScore": 31,
-      "state": "in",
-      "statusText": "1:55 - 4th",
-      "date": "2026-10-24T02:30Z",
-      "completed": false,
-      "inProgress": true
-    },
-    {
       "id": "401858271",
       "sport": "CFB",
       "away": "Duke Blue Devils",
@@ -11852,6 +11839,19 @@
       "state": "post",
       "statusText": "Final",
       "date": "2026-10-24T01:00Z",
+      "completed": true,
+      "inProgress": false
+    },
+    {
+      "id": "401858272",
+      "sport": "CFB",
+      "away": "NC State Wolfpack",
+      "home": "Stanford Cardinal",
+      "awayScore": 28,
+      "homeScore": 31,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-10-24T02:30Z",
       "completed": true,
       "inProgress": false
     },
