@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-23T22:13:05.007487+00:00",
+  "updated_at": "2026-10-24T00:45:00.717361+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 4,
@@ -11795,39 +11795,39 @@
       "sport": "CFB",
       "away": "Duke Blue Devils",
       "home": "Virginia Cavaliers",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/23 - 7:00 PM EDT",
+      "awayScore": 7,
+      "homeScore": 13,
+      "state": "in",
+      "statusText": "Halftime",
       "date": "2026-10-23T23:00Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401861965",
       "sport": "CFB",
       "away": "Massachusetts Minutemen",
       "home": "UConn Huskies",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/23 - 7:00 PM EDT",
+      "awayScore": 3,
+      "homeScore": 21,
+      "state": "in",
+      "statusText": "Halftime",
       "date": "2026-10-23T23:00Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401862808",
       "sport": "CFB",
       "away": "Army Black Knights",
       "home": "Tulsa Golden Hurricane",
-      "awayScore": 0,
+      "awayScore": 6,
       "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/23 - 8:30 PM EDT",
+      "state": "in",
+      "statusText": "9:11 - 1st",
       "date": "2026-10-24T00:30Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401864525",
