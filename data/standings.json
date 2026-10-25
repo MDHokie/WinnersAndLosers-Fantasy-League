@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-25T11:28:36.584612+00:00",
+  "updated_at": "2026-10-25T16:17:36.330756+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 4,
@@ -2747,13 +2747,13 @@
       "sport": "NFL",
       "away": "Pittsburgh Steelers",
       "home": "New Orleans Saints",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/25 - 9:30 AM EDT",
+      "awayScore": 16,
+      "homeScore": 10,
+      "state": "in",
+      "statusText": "5:52 - 4th",
       "date": "2026-10-25T13:30Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401873017",
