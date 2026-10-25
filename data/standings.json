@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-25T06:10:56.251580+00:00",
+  "updated_at": "2026-10-25T11:28:36.584612+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 4,
@@ -12948,10 +12948,10 @@
       "inProgress": false
     },
     {
-      "id": "401858506",
+      "id": "401856736",
       "sport": "CFB",
-      "away": "Purdue Boilermakers",
-      "home": "Penn State Nittany Lions",
+      "away": "South Carolina Gamecocks",
+      "home": "Oklahoma Sooners",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -12961,10 +12961,10 @@
       "inProgress": false
     },
     {
-      "id": "401856736",
+      "id": "401858506",
       "sport": "CFB",
-      "away": "South Carolina Gamecocks",
-      "home": "Oklahoma Sooners",
+      "away": "Purdue Boilermakers",
+      "home": "Penn State Nittany Lions",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
