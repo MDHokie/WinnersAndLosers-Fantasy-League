@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-26T01:09:31.507084+00:00",
+  "updated_at": "2026-10-26T06:12:42.445253+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 4,
@@ -8,7 +8,7 @@
       "ties": 0
     },
     "NFL|Seattle Seahawks": {
-      "wins": 3,
+      "wins": 4,
       "losses": 3,
       "ties": 0
     },
@@ -159,7 +159,7 @@
     },
     "NFL|Kansas City Chiefs": {
       "wins": 5,
-      "losses": 0,
+      "losses": 1,
       "ties": 0
     },
     "NFL|TBD": {
@@ -2743,17 +2743,30 @@
       "inProgress": false
     },
     {
-      "id": "401873022",
+      "id": "401873009",
       "sport": "NFL",
-      "away": "Kansas City Chiefs",
-      "home": "Seattle Seahawks",
+      "away": "Dallas Cowboys",
+      "home": "Philadelphia Eagles",
       "awayScore": 0,
-      "homeScore": 3,
-      "state": "in",
-      "statusText": "6:53 - 2nd",
-      "date": "2026-10-26T00:20Z",
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "10/26 - 8:15 PM EDT",
+      "date": "2026-10-27T00:15Z",
       "completed": false,
-      "inProgress": true
+      "inProgress": false
+    },
+    {
+      "id": "401873010",
+      "sport": "NFL",
+      "away": "New England Patriots",
+      "home": "Chicago Bears",
+      "awayScore": 24,
+      "homeScore": 30,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-10-23T00:15Z",
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401873011",
@@ -2899,29 +2912,16 @@
       "inProgress": false
     },
     {
-      "id": "401873010",
+      "id": "401873022",
       "sport": "NFL",
-      "away": "New England Patriots",
-      "home": "Chicago Bears",
-      "awayScore": 24,
-      "homeScore": 30,
+      "away": "Kansas City Chiefs",
+      "home": "Seattle Seahawks",
+      "awayScore": 3,
+      "homeScore": 20,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-23T00:15Z",
+      "date": "2026-10-26T00:20Z",
       "completed": true,
-      "inProgress": false
-    },
-    {
-      "id": "401873009",
-      "sport": "NFL",
-      "away": "Dallas Cowboys",
-      "home": "Philadelphia Eagles",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/26 - 8:15 PM EDT",
-      "date": "2026-10-27T00:15Z",
-      "completed": false,
       "inProgress": false
     },
     {
