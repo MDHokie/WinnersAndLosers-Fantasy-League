@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-27T21:18:55.394311+00:00",
+  "updated_at": "2026-10-28T01:20:40.785970+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 4,
@@ -12432,26 +12432,26 @@
       "sport": "CFB",
       "away": "Delaware Blue Hens",
       "home": "Western Kentucky Hilltoppers",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/27 - 7:00 PM EDT",
+      "awayScore": 35,
+      "homeScore": 21,
+      "state": "in",
+      "statusText": "1:30 - 3rd",
       "date": "2026-10-27T23:00Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401871072",
       "sport": "CFB",
       "away": "Sam Houston Bearkats",
       "home": "Missouri State Bears",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/27 - 8:00 PM EDT",
+      "awayScore": 3,
+      "homeScore": 10,
+      "state": "in",
+      "statusText": "2:13 - 2nd",
       "date": "2026-10-28T00:00Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401871058",
@@ -16831,6 +16831,19 @@
       "state": "pre",
       "statusText": "12/15 - 9:00 PM EST",
       "date": "2026-12-16T02:00Z",
+      "completed": false,
+      "inProgress": false
+    },
+    {
+      "id": "401932016",
+      "sport": "CFB",
+      "away": "TBD",
+      "home": "TBD",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "TBD",
+      "date": "2026-12-16T05:00Z",
       "completed": false,
       "inProgress": false
     },
