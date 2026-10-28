@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-28T01:20:40.785970+00:00",
+  "updated_at": "2026-10-28T08:30:28.343247+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 4,
@@ -303,7 +303,7 @@
       "ties": 0
     },
     "CFB|Delaware Blue Hens": {
-      "wins": 3,
+      "wins": 4,
       "losses": 4,
       "ties": 0
     },
@@ -468,7 +468,7 @@
       "ties": 0
     },
     "CFB|Missouri State Bears": {
-      "wins": 2,
+      "wins": 3,
       "losses": 5,
       "ties": 0
     },
@@ -904,7 +904,7 @@
     },
     "CFB|Sam Houston Bearkats": {
       "wins": 1,
-      "losses": 6,
+      "losses": 7,
       "ties": 0
     },
     "CFB|Troy Trojans": {
@@ -1054,7 +1054,7 @@
     },
     "CFB|Western Kentucky Hilltoppers": {
       "wins": 3,
-      "losses": 4,
+      "losses": 5,
       "ties": 0
     },
     "CFB|Nevada Wolf Pack": {
@@ -12434,11 +12434,11 @@
       "home": "Western Kentucky Hilltoppers",
       "awayScore": 35,
       "homeScore": 21,
-      "state": "in",
-      "statusText": "1:30 - 3rd",
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-10-27T23:00Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401871072",
@@ -12446,12 +12446,12 @@
       "away": "Sam Houston Bearkats",
       "home": "Missouri State Bears",
       "awayScore": 3,
-      "homeScore": 10,
-      "state": "in",
-      "statusText": "2:13 - 2nd",
+      "homeScore": 24,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-10-28T00:00Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401871058",
