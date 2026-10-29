@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-29T00:55:37.743565+00:00",
+  "updated_at": "2026-10-29T07:04:10.251764+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 4,
@@ -198,7 +198,7 @@
       "ties": 0
     },
     "CFB|Jacksonville State Gamecocks": {
-      "wins": 5,
+      "wins": 6,
       "losses": 2,
       "ties": 0
     },
@@ -229,7 +229,7 @@
     },
     "CFB|New Mexico State Aggies": {
       "wins": 3,
-      "losses": 4,
+      "losses": 5,
       "ties": 0
     },
     "CFB|Florida State Seminoles": {
@@ -313,7 +313,7 @@
       "ties": 0
     },
     "CFB|Kennesaw State Owls": {
-      "wins": 1,
+      "wins": 2,
       "losses": 6,
       "ties": 0
     },
@@ -959,7 +959,7 @@
     },
     "CFB|Middle Tennessee Blue Raiders": {
       "wins": 4,
-      "losses": 3,
+      "losses": 4,
       "ties": 0
     },
     "CFB|Hampton Pirates": {
@@ -12458,26 +12458,26 @@
       "sport": "CFB",
       "away": "Kennesaw State Owls",
       "home": "Middle Tennessee Blue Raiders",
-      "awayScore": 19,
-      "homeScore": 17,
-      "state": "in",
-      "statusText": "15:00 - 3rd",
+      "awayScore": 44,
+      "homeScore": 28,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-10-28T23:00Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401871057",
       "sport": "CFB",
       "away": "Jacksonville State Gamecocks",
       "home": "New Mexico State Aggies",
-      "awayScore": 7,
+      "awayScore": 24,
       "homeScore": 0,
-      "state": "in",
-      "statusText": "9:09 - 2nd",
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-10-29T00:00Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401862812",
