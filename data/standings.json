@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-30T14:07:21.134609+00:00",
+  "updated_at": "2026-10-30T19:21:30.434140+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 4,
@@ -17039,32 +17039,6 @@
       "state": "pre",
       "statusText": "12/23 - 9:00 PM EST",
       "date": "2026-12-24T02:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
-      "id": "401874415",
-      "sport": "CFB",
-      "away": "TBD",
-      "home": "TBD",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "12/24 - 2:30 PM EST",
-      "date": "2026-12-24T19:30Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
-      "id": "401874416",
-      "sport": "CFB",
-      "away": "TBD",
-      "home": "TBD",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "12/24 - 7:00 PM EST",
-      "date": "2026-12-25T00:00Z",
       "completed": false,
       "inProgress": false
     },
