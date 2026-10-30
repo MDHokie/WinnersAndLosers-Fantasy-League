@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-30T00:58:52.546376+00:00",
+  "updated_at": "2026-10-30T07:04:57.383984+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 4,
@@ -79,7 +79,7 @@
     },
     "NFL|Carolina Panthers": {
       "wins": 3,
-      "losses": 3,
+      "losses": 4,
       "ties": 0
     },
     "NFL|Cleveland Browns": {
@@ -113,7 +113,7 @@
       "ties": 0
     },
     "NFL|Green Bay Packers": {
-      "wins": 4,
+      "wins": 5,
       "losses": 3,
       "ties": 0
     },
@@ -458,7 +458,7 @@
       "ties": 0
     },
     "CFB|North Texas Mean Green": {
-      "wins": 5,
+      "wins": 6,
       "losses": 2,
       "ties": 0
     },
@@ -634,7 +634,7 @@
     },
     "CFB|James Madison Dukes": {
       "wins": 7,
-      "losses": 1,
+      "losses": 2,
       "ties": 0
     },
     "CFB|Miami (OH) RedHawks": {
@@ -908,7 +908,7 @@
       "ties": 0
     },
     "CFB|Troy Trojans": {
-      "wins": 3,
+      "wins": 4,
       "losses": 4,
       "ties": 0
     },
@@ -944,7 +944,7 @@
     },
     "CFB|Florida Atlantic Owls": {
       "wins": 5,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     },
     "CFB|Florida Gators": {
@@ -2929,13 +2929,13 @@
       "sport": "NFL",
       "away": "Carolina Panthers",
       "home": "Green Bay Packers",
-      "awayScore": 10,
-      "homeScore": 6,
-      "state": "in",
-      "statusText": "13:34 - 2nd",
+      "awayScore": 19,
+      "homeScore": 27,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-10-30T00:15Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401873026",
@@ -12484,26 +12484,26 @@
       "sport": "CFB",
       "away": "Florida Atlantic Owls",
       "home": "North Texas Mean Green",
-      "awayScore": 17,
-      "homeScore": 17,
-      "state": "in",
-      "statusText": "2:00 - 2nd",
+      "awayScore": 41,
+      "homeScore": 48,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-10-29T23:30Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401869963",
       "sport": "CFB",
       "away": "Troy Trojans",
       "home": "James Madison Dukes",
-      "awayScore": 7,
+      "awayScore": 24,
       "homeScore": 21,
-      "state": "in",
-      "statusText": "1:59 - 2nd",
+      "state": "post",
+      "statusText": "Final/OT",
       "date": "2026-10-29T23:30Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401862813",
