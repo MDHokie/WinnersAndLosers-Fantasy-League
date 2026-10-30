@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-29T20:17:00.817144+00:00",
+  "updated_at": "2026-10-30T00:58:52.546376+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 4,
@@ -2929,13 +2929,13 @@
       "sport": "NFL",
       "away": "Carolina Panthers",
       "home": "Green Bay Packers",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/29 - 8:15 PM EDT",
+      "awayScore": 10,
+      "homeScore": 6,
+      "state": "in",
+      "statusText": "13:34 - 2nd",
       "date": "2026-10-30T00:15Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401873026",
@@ -12484,26 +12484,26 @@
       "sport": "CFB",
       "away": "Florida Atlantic Owls",
       "home": "North Texas Mean Green",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/29 - 7:30 PM EDT",
+      "awayScore": 17,
+      "homeScore": 17,
+      "state": "in",
+      "statusText": "2:00 - 2nd",
       "date": "2026-10-29T23:30Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401869963",
       "sport": "CFB",
       "away": "Troy Trojans",
       "home": "James Madison Dukes",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/29 - 7:30 PM EDT",
+      "awayScore": 7,
+      "homeScore": 21,
+      "state": "in",
+      "statusText": "1:59 - 2nd",
       "date": "2026-10-29T23:30Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401862813",
