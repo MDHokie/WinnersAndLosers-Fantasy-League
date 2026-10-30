@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-30T19:21:30.434140+00:00",
+  "updated_at": "2026-10-30T23:46:25.773222+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 4,
@@ -303,7 +303,7 @@
       "ties": 0
     },
     "CFB|Delaware Blue Hens": {
-      "wins": 4,
+      "wins": 3,
       "losses": 4,
       "ties": 0
     },
@@ -468,7 +468,7 @@
       "ties": 0
     },
     "CFB|Missouri State Bears": {
-      "wins": 3,
+      "wins": 2,
       "losses": 5,
       "ties": 0
     },
@@ -904,7 +904,7 @@
     },
     "CFB|Sam Houston Bearkats": {
       "wins": 1,
-      "losses": 7,
+      "losses": 6,
       "ties": 0
     },
     "CFB|Troy Trojans": {
@@ -1054,7 +1054,7 @@
     },
     "CFB|Western Kentucky Hilltoppers": {
       "wins": 3,
-      "losses": 5,
+      "losses": 4,
       "ties": 0
     },
     "CFB|Nevada Wolf Pack": {
@@ -12428,32 +12428,6 @@
       "inProgress": false
     },
     {
-      "id": "401871071",
-      "sport": "CFB",
-      "away": "Delaware Blue Hens",
-      "home": "Western Kentucky Hilltoppers",
-      "awayScore": 35,
-      "homeScore": 21,
-      "state": "post",
-      "statusText": "Final",
-      "date": "2026-10-27T23:00Z",
-      "completed": true,
-      "inProgress": false
-    },
-    {
-      "id": "401871072",
-      "sport": "CFB",
-      "away": "Sam Houston Bearkats",
-      "home": "Missouri State Bears",
-      "awayScore": 3,
-      "homeScore": 24,
-      "state": "post",
-      "statusText": "Final",
-      "date": "2026-10-28T00:00Z",
-      "completed": true,
-      "inProgress": false
-    },
-    {
       "id": "401871058",
       "sport": "CFB",
       "away": "Kennesaw State Owls",
@@ -12510,13 +12484,13 @@
       "sport": "CFB",
       "away": "Tulane Green Wave",
       "home": "Charlotte 49ers",
-      "awayScore": 0,
+      "awayScore": 7,
       "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/30 - 7:00 PM EDT",
+      "state": "in",
+      "statusText": "13:26 - 2nd",
       "date": "2026-10-30T23:00Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401856844",
@@ -12525,11 +12499,11 @@
       "home": "UCF Knights",
       "awayScore": 0,
       "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/30 - 7:30 PM EDT",
+      "state": "in",
+      "statusText": "10:48 - 1st",
       "date": "2026-10-30T23:30Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401866451",
@@ -17039,6 +17013,32 @@
       "state": "pre",
       "statusText": "12/23 - 9:00 PM EST",
       "date": "2026-12-24T02:00Z",
+      "completed": false,
+      "inProgress": false
+    },
+    {
+      "id": "401874415",
+      "sport": "CFB",
+      "away": "TBD",
+      "home": "TBD",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "12/24 - 2:30 PM EST",
+      "date": "2026-12-24T19:30Z",
+      "completed": false,
+      "inProgress": false
+    },
+    {
+      "id": "401874416",
+      "sport": "CFB",
+      "away": "TBD",
+      "home": "TBD",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "12/24 - 7:00 PM EST",
+      "date": "2026-12-25T00:00Z",
       "completed": false,
       "inProgress": false
     },
