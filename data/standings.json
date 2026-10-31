@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-31T05:39:29.070812+00:00",
+  "updated_at": "2026-10-31T12:26:51.975926+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 4,
@@ -208,7 +208,7 @@
       "ties": 0
     },
     "CFB|Sacramento State Hornets": {
-      "wins": 1,
+      "wins": 2,
       "losses": 7,
       "ties": 0
     },
@@ -649,7 +649,7 @@
     },
     "CFB|Kent State Golden Flashes": {
       "wins": 3,
-      "losses": 5,
+      "losses": 6,
       "ties": 0
     },
     "CFB|South Carolina Gamecocks": {
@@ -12506,19 +12506,6 @@
       "inProgress": false
     },
     {
-      "id": "401866451",
-      "sport": "CFB",
-      "away": "Kent State Golden Flashes",
-      "home": "Sacramento State Hornets",
-      "awayScore": 10,
-      "homeScore": 24,
-      "state": "in",
-      "statusText": "8:11 - 4th",
-      "date": "2026-10-31T02:30Z",
-      "completed": false,
-      "inProgress": true
-    },
-    {
       "id": "401862813",
       "sport": "CFB",
       "away": "Tulane Green Wave",
@@ -12541,6 +12528,19 @@
       "state": "post",
       "statusText": "Final",
       "date": "2026-10-30T23:30Z",
+      "completed": true,
+      "inProgress": false
+    },
+    {
+      "id": "401866451",
+      "sport": "CFB",
+      "away": "Kent State Golden Flashes",
+      "home": "Sacramento State Hornets",
+      "awayScore": 10,
+      "homeScore": 31,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-10-31T02:30Z",
       "completed": true,
       "inProgress": false
     },
