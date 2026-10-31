@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-10-30T23:46:25.773222+00:00",
+  "updated_at": "2026-10-31T05:39:29.070812+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 4,
@@ -284,7 +284,7 @@
     },
     "CFB|UCF Knights": {
       "wins": 4,
-      "losses": 3,
+      "losses": 4,
       "ties": 0
     },
     "CFB|Akron Zips": {
@@ -303,7 +303,7 @@
       "ties": 0
     },
     "CFB|Delaware Blue Hens": {
-      "wins": 3,
+      "wins": 4,
       "losses": 4,
       "ties": 0
     },
@@ -468,7 +468,7 @@
       "ties": 0
     },
     "CFB|Missouri State Bears": {
-      "wins": 2,
+      "wins": 3,
       "losses": 5,
       "ties": 0
     },
@@ -698,7 +698,7 @@
       "ties": 0
     },
     "CFB|Baylor Bears": {
-      "wins": 4,
+      "wins": 5,
       "losses": 3,
       "ties": 0
     },
@@ -718,7 +718,7 @@
       "ties": 0
     },
     "CFB|Tulane Green Wave": {
-      "wins": 3,
+      "wins": 4,
       "losses": 4,
       "ties": 0
     },
@@ -734,7 +734,7 @@
     },
     "CFB|Charlotte 49ers": {
       "wins": 1,
-      "losses": 6,
+      "losses": 7,
       "ties": 0
     },
     "CFB|Towson Tigers": {
@@ -904,7 +904,7 @@
     },
     "CFB|Sam Houston Bearkats": {
       "wins": 1,
-      "losses": 6,
+      "losses": 7,
       "ties": 0
     },
     "CFB|Troy Trojans": {
@@ -1054,7 +1054,7 @@
     },
     "CFB|Western Kentucky Hilltoppers": {
       "wins": 3,
-      "losses": 4,
+      "losses": 5,
       "ties": 0
     },
     "CFB|Nevada Wolf Pack": {
@@ -12428,6 +12428,32 @@
       "inProgress": false
     },
     {
+      "id": "401871071",
+      "sport": "CFB",
+      "away": "Delaware Blue Hens",
+      "home": "Western Kentucky Hilltoppers",
+      "awayScore": 35,
+      "homeScore": 21,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-10-27T23:00Z",
+      "completed": true,
+      "inProgress": false
+    },
+    {
+      "id": "401871072",
+      "sport": "CFB",
+      "away": "Sam Houston Bearkats",
+      "home": "Missouri State Bears",
+      "awayScore": 3,
+      "homeScore": 24,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-10-28T00:00Z",
+      "completed": true,
+      "inProgress": false
+    },
+    {
       "id": "401871058",
       "sport": "CFB",
       "away": "Kennesaw State Owls",
@@ -12480,42 +12506,42 @@
       "inProgress": false
     },
     {
+      "id": "401866451",
+      "sport": "CFB",
+      "away": "Kent State Golden Flashes",
+      "home": "Sacramento State Hornets",
+      "awayScore": 10,
+      "homeScore": 24,
+      "state": "in",
+      "statusText": "8:11 - 4th",
+      "date": "2026-10-31T02:30Z",
+      "completed": false,
+      "inProgress": true
+    },
+    {
       "id": "401862813",
       "sport": "CFB",
       "away": "Tulane Green Wave",
       "home": "Charlotte 49ers",
-      "awayScore": 7,
-      "homeScore": 0,
-      "state": "in",
-      "statusText": "13:26 - 2nd",
+      "awayScore": 38,
+      "homeScore": 31,
+      "state": "post",
+      "statusText": "Final/OT",
       "date": "2026-10-30T23:00Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401856844",
       "sport": "CFB",
       "away": "Baylor Bears",
       "home": "UCF Knights",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "in",
-      "statusText": "10:48 - 1st",
+      "awayScore": 41,
+      "homeScore": 9,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-10-30T23:30Z",
-      "completed": false,
-      "inProgress": true
-    },
-    {
-      "id": "401866451",
-      "sport": "CFB",
-      "away": "Kent State Golden Flashes",
-      "home": "Sacramento State Hornets",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "10/30 - 10:30 PM EDT",
-      "date": "2026-10-31T02:30Z",
-      "completed": false,
+      "completed": true,
       "inProgress": false
     },
     {
