@@ -1,9 +1,9 @@
 {
   "season": 2026,
-  "updated_at": "2026-11-01T23:35:20.118167+00:00",
+  "updated_at": "2026-11-02T05:59:58.289511+00:00",
   "team_records": {
     "NFL|New England Patriots": {
-      "wins": 4,
+      "wins": 5,
       "losses": 3,
       "ties": 0
     },
@@ -18,7 +18,7 @@
       "ties": 0
     },
     "NFL|Los Angeles Rams": {
-      "wins": 3,
+      "wins": 4,
       "losses": 4,
       "ties": 0
     },
@@ -104,7 +104,7 @@
     },
     "NFL|Miami Dolphins": {
       "wins": 1,
-      "losses": 5,
+      "losses": 6,
       "ties": 0
     },
     "NFL|Las Vegas Raiders": {
@@ -123,13 +123,13 @@
       "ties": 0
     },
     "NFL|Washington Commanders": {
-      "wins": 1,
+      "wins": 2,
       "losses": 4,
       "ties": 1
     },
     "NFL|Philadelphia Eagles": {
       "wins": 2,
-      "losses": 5,
+      "losses": 6,
       "ties": 0
     },
     "NFL|Arizona Cardinals": {
@@ -139,7 +139,7 @@
     },
     "NFL|Los Angeles Chargers": {
       "wins": 0,
-      "losses": 6,
+      "losses": 7,
       "ties": 0
     },
     "NFL|Dallas Cowboys": {
@@ -153,13 +153,13 @@
       "ties": 1
     },
     "NFL|Denver Broncos": {
-      "wins": 5,
+      "wins": 6,
       "losses": 2,
       "ties": 0
     },
     "NFL|Kansas City Chiefs": {
       "wins": 5,
-      "losses": 1,
+      "losses": 2,
       "ties": 0
     },
     "NFL|TBD": {
@@ -2925,43 +2925,30 @@
       "inProgress": false
     },
     {
-      "id": "401873032",
+      "id": "401873036",
       "sport": "NFL",
-      "away": "Los Angeles Chargers",
-      "home": "Los Angeles Rams",
-      "awayScore": 9,
-      "homeScore": 24,
-      "state": "in",
-      "statusText": "8:44 - 4th",
-      "date": "2026-11-01T21:05Z",
+      "away": "Chicago Bears",
+      "home": "Seattle Seahawks",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "11/2 - 8:15 PM EST",
+      "date": "2026-11-03T01:15Z",
       "completed": false,
-      "inProgress": true
+      "inProgress": false
     },
     {
-      "id": "401873033",
+      "id": "401873023",
       "sport": "NFL",
-      "away": "Kansas City Chiefs",
-      "home": "Denver Broncos",
-      "awayScore": 17,
-      "homeScore": 13,
-      "state": "in",
-      "statusText": "5:18 - 3rd",
-      "date": "2026-11-01T21:25Z",
-      "completed": false,
-      "inProgress": true
-    },
-    {
-      "id": "401873034",
-      "sport": "NFL",
-      "away": "New England Patriots",
-      "home": "Miami Dolphins",
-      "awayScore": 10,
-      "homeScore": 13,
-      "state": "in",
-      "statusText": "4:44 - 3rd",
-      "date": "2026-11-01T21:25Z",
-      "completed": false,
-      "inProgress": true
+      "away": "Carolina Panthers",
+      "home": "Green Bay Packers",
+      "awayScore": 19,
+      "homeScore": 27,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-10-30T00:15Z",
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401873026",
@@ -3068,42 +3055,55 @@
       "inProgress": false
     },
     {
-      "id": "401873035",
+      "id": "401873032",
       "sport": "NFL",
-      "away": "Philadelphia Eagles",
-      "home": "Washington Commanders",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "11/1 - 8:20 PM EST",
-      "date": "2026-11-02T01:20Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
-      "id": "401873023",
-      "sport": "NFL",
-      "away": "Carolina Panthers",
-      "home": "Green Bay Packers",
-      "awayScore": 19,
-      "homeScore": 27,
+      "away": "Los Angeles Chargers",
+      "home": "Los Angeles Rams",
+      "awayScore": 9,
+      "homeScore": 24,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-30T00:15Z",
+      "date": "2026-11-01T21:05Z",
       "completed": true,
       "inProgress": false
     },
     {
-      "id": "401873036",
+      "id": "401873033",
       "sport": "NFL",
-      "away": "Chicago Bears",
-      "home": "Seattle Seahawks",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "11/2 - 8:15 PM EST",
-      "date": "2026-11-03T01:15Z",
-      "completed": false,
+      "away": "Kansas City Chiefs",
+      "home": "Denver Broncos",
+      "awayScore": 24,
+      "homeScore": 28,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-11-01T21:25Z",
+      "completed": true,
+      "inProgress": false
+    },
+    {
+      "id": "401873034",
+      "sport": "NFL",
+      "away": "New England Patriots",
+      "home": "Miami Dolphins",
+      "awayScore": 24,
+      "homeScore": 19,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-11-01T21:25Z",
+      "completed": true,
+      "inProgress": false
+    },
+    {
+      "id": "401873035",
+      "sport": "NFL",
+      "away": "Philadelphia Eagles",
+      "home": "Washington Commanders",
+      "awayScore": 10,
+      "homeScore": 27,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-11-02T01:20Z",
+      "completed": true,
       "inProgress": false
     },
     {
