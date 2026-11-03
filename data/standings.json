@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-11-03T06:45:50.063465+00:00",
+  "updated_at": "2026-11-03T15:06:10.157114+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 5,
@@ -14729,10 +14729,10 @@
       "inProgress": false
     },
     {
-      "id": "401871100",
+      "id": "401864538",
       "sport": "CFB",
-      "away": "Troy Trojans",
-      "home": "South Alabama Jaguars",
+      "away": "San Jos\u00e9 State Spartans",
+      "home": "Air Force Falcons",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -14742,10 +14742,10 @@
       "inProgress": false
     },
     {
-      "id": "401864538",
+      "id": "401871100",
       "sport": "CFB",
-      "away": "San Jos\u00e9 State Spartans",
-      "home": "Air Force Falcons",
+      "away": "Troy Trojans",
+      "home": "South Alabama Jaguars",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
