@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-11-04T09:10:29.265051+00:00",
+  "updated_at": "2026-11-04T17:14:06.386769+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 5,
@@ -14014,19 +14014,6 @@
       "inProgress": false
     },
     {
-      "id": "401866461",
-      "sport": "CFB",
-      "away": "Buffalo Bulls",
-      "home": "Ball State Cardinals",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "TBD",
-      "date": "2026-11-11T05:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
       "id": "401866463",
       "sport": "CFB",
       "away": "Massachusetts Minutemen",
@@ -14036,6 +14023,19 @@
       "state": "pre",
       "statusText": "TBD",
       "date": "2026-11-11T05:00Z",
+      "completed": false,
+      "inProgress": false
+    },
+    {
+      "id": "401866461",
+      "sport": "CFB",
+      "away": "Buffalo Bulls",
+      "home": "Ball State Cardinals",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "11/11 - 7:30 PM EST",
+      "date": "2026-11-12T00:30Z",
       "completed": false,
       "inProgress": false
     },
@@ -15964,6 +15964,19 @@
       "inProgress": false
     },
     {
+      "id": "401862840",
+      "sport": "CFB",
+      "away": "Tulsa Golden Hurricane",
+      "home": "UTSA Roadrunners",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "TBD",
+      "date": "2026-11-27T05:00Z",
+      "completed": false,
+      "inProgress": false
+    },
+    {
       "id": "401858311",
       "sport": "CFB",
       "away": "Boston College Eagles",
@@ -16358,19 +16371,6 @@
       "sport": "CFB",
       "away": "UConn Huskies",
       "home": "Wyoming Cowboys",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "TBD",
-      "date": "2026-11-28T05:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
-      "id": "401862840",
-      "sport": "CFB",
-      "away": "Tulsa Golden Hurricane",
-      "home": "UTSA Roadrunners",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
