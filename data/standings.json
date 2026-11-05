@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-11-05T03:29:03.213968+00:00",
+  "updated_at": "2026-11-05T12:19:21.609191+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 5,
@@ -214,7 +214,7 @@
     },
     "CFB|Eastern Michigan Eagles": {
       "wins": 4,
-      "losses": 5,
+      "losses": 6,
       "ties": 0
     },
     "CFB|Hawai'i Rainbow Warriors": {
@@ -1028,7 +1028,7 @@
       "ties": 0
     },
     "CFB|Central Michigan Chippewas": {
-      "wins": 3,
+      "wins": 4,
       "losses": 5,
       "ties": 0
     },
@@ -13213,12 +13213,12 @@
       "away": "Central Michigan Chippewas",
       "home": "Eastern Michigan Eagles",
       "awayScore": 35,
-      "homeScore": 0,
-      "state": "in",
-      "statusText": "4:12 - 4th",
+      "homeScore": 7,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-11-05T00:30Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401862817",
@@ -15834,6 +15834,19 @@
       "inProgress": false
     },
     {
+      "id": "401862840",
+      "sport": "CFB",
+      "away": "Tulsa Golden Hurricane",
+      "home": "UTSA Roadrunners",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "TBD",
+      "date": "2026-11-27T05:00Z",
+      "completed": false,
+      "inProgress": false
+    },
+    {
       "id": "401856762",
       "sport": "CFB",
       "away": "Mississippi State Bulldogs",
@@ -15960,19 +15973,6 @@
       "state": "pre",
       "statusText": "11/27 - 9:00 PM EST",
       "date": "2026-11-28T02:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
-      "id": "401862840",
-      "sport": "CFB",
-      "away": "Tulsa Golden Hurricane",
-      "home": "UTSA Roadrunners",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "TBD",
-      "date": "2026-11-27T05:00Z",
       "completed": false,
       "inProgress": false
     },
