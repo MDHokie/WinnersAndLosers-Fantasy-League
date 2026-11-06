@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-11-06T09:22:50.614684+00:00",
+  "updated_at": "2026-11-06T17:29:17.629203+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 5,
@@ -15938,6 +15938,19 @@
       "inProgress": false
     },
     {
+      "id": "401864546",
+      "sport": "CFB",
+      "away": "Air Force Falcons",
+      "home": "New Mexico Lobos",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "11/27 - 4:30 PM EST",
+      "date": "2026-11-27T21:30Z",
+      "completed": false,
+      "inProgress": false
+    },
+    {
       "id": "401856756",
       "sport": "CFB",
       "away": "Texas Longhorns",
@@ -15973,19 +15986,6 @@
       "state": "pre",
       "statusText": "11/27 - 9:00 PM EST",
       "date": "2026-11-28T02:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
-      "id": "401864546",
-      "sport": "CFB",
-      "away": "Air Force Falcons",
-      "home": "New Mexico Lobos",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "11/27 - 4:30 PM EST",
-      "date": "2026-11-27T21:30Z",
       "completed": false,
       "inProgress": false
     },
