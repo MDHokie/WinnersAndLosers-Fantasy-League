@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-11-08T07:18:34.258978+00:00",
+  "updated_at": "2026-11-08T15:10:57.363006+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 5,
@@ -3111,13 +3111,13 @@
       "sport": "NFL",
       "away": "Cincinnati Bengals",
       "home": "Atlanta Falcons",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "11/8 - 9:30 AM EST",
+      "awayScore": 7,
+      "homeScore": 10,
+      "state": "in",
+      "statusText": "0:42 - 1st",
       "date": "2026-11-08T14:30Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401873040",
@@ -13312,19 +13312,6 @@
       "inProgress": false
     },
     {
-      "id": "401860912",
-      "sport": "CFB",
-      "away": "Texas State Bobcats",
-      "home": "Oregon State Beavers",
-      "awayScore": 42,
-      "homeScore": 21,
-      "state": "post",
-      "statusText": "Final",
-      "date": "2026-11-08T03:30Z",
-      "completed": true,
-      "inProgress": false
-    },
-    {
       "id": "401858291",
       "sport": "CFB",
       "away": "Miami Hurricanes",
@@ -13962,6 +13949,19 @@
       "inProgress": false
     },
     {
+      "id": "401860912",
+      "sport": "CFB",
+      "away": "Texas State Bobcats",
+      "home": "Oregon State Beavers",
+      "awayScore": 42,
+      "homeScore": 21,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-11-08T03:30Z",
+      "completed": true,
+      "inProgress": false
+    },
+    {
       "id": "401864535",
       "sport": "CFB",
       "away": "Wyoming Cowboys",
@@ -14014,19 +14014,6 @@
       "inProgress": false
     },
     {
-      "id": "401866463",
-      "sport": "CFB",
-      "away": "Massachusetts Minutemen",
-      "home": "Toledo Rockets",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "11/11 - 7:30 PM EST",
-      "date": "2026-11-12T00:30Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
       "id": "401866461",
       "sport": "CFB",
       "away": "Buffalo Bulls",
@@ -14044,6 +14031,19 @@
       "sport": "CFB",
       "away": "Sacramento State Hornets",
       "home": "Central Michigan Chippewas",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "11/11 - 7:30 PM EST",
+      "date": "2026-11-12T00:30Z",
+      "completed": false,
+      "inProgress": false
+    },
+    {
+      "id": "401866463",
+      "sport": "CFB",
+      "away": "Massachusetts Minutemen",
+      "home": "Toledo Rockets",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
