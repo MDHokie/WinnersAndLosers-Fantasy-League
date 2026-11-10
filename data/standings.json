@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-11-10T09:48:53.130576+00:00",
+  "updated_at": "2026-11-10T17:49:49.527342+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 5,
@@ -15145,19 +15145,6 @@
       "inProgress": false
     },
     {
-      "id": "401858532",
-      "sport": "CFB",
-      "away": "Rutgers Scarlet Knights",
-      "home": "Penn State Nittany Lions",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "TBD",
-      "date": "2026-11-21T05:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
       "id": "401862835",
       "sport": "CFB",
       "away": "North Texas Mean Green",
@@ -15496,10 +15483,10 @@
       "inProgress": false
     },
     {
-      "id": "401858304",
+      "id": "401858532",
       "sport": "CFB",
-      "away": "NC State Wolfpack",
-      "home": "Florida State Seminoles",
+      "away": "Rutgers Scarlet Knights",
+      "home": "Penn State Nittany Lions",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -15522,6 +15509,19 @@
       "inProgress": false
     },
     {
+      "id": "401858304",
+      "sport": "CFB",
+      "away": "NC State Wolfpack",
+      "home": "Florida State Seminoles",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "11/21 - 3:30 PM EST",
+      "date": "2026-11-21T20:30Z",
+      "completed": false,
+      "inProgress": false
+    },
+    {
       "id": "401861968",
       "sport": "CFB",
       "away": "Old Dominion Monarchs",
@@ -15531,6 +15531,19 @@
       "state": "pre",
       "statusText": "11/21 - 3:30 PM EST",
       "date": "2026-11-21T20:30Z",
+      "completed": false,
+      "inProgress": false
+    },
+    {
+      "id": "401864543",
+      "sport": "CFB",
+      "away": "Northern Illinois Huskies",
+      "home": "North Dakota State Bison",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "11/21 - 4:00 PM EST",
+      "date": "2026-11-21T21:00Z",
       "completed": false,
       "inProgress": false
     },
@@ -15574,19 +15587,6 @@
       "inProgress": false
     },
     {
-      "id": "401864543",
-      "sport": "CFB",
-      "away": "Northern Illinois Huskies",
-      "home": "North Dakota State Bison",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "11/21 - 4:00 PM EST",
-      "date": "2026-11-21T21:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
       "id": "401860920",
       "sport": "CFB",
       "away": "Washington State Cougars",
@@ -15613,10 +15613,10 @@
       "inProgress": false
     },
     {
-      "id": "401869938",
+      "id": "401864544",
       "sport": "CFB",
-      "away": "Arkansas State Red Wolves",
-      "home": "Louisiana Tech Bulldogs",
+      "away": "UNLV Rebels",
+      "home": "San Jos\u00e9 State Spartans",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -15626,10 +15626,10 @@
       "inProgress": false
     },
     {
-      "id": "401864544",
+      "id": "401869938",
       "sport": "CFB",
-      "away": "UNLV Rebels",
-      "home": "San Jos\u00e9 State Spartans",
+      "away": "Arkansas State Red Wolves",
+      "home": "Louisiana Tech Bulldogs",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -15730,10 +15730,10 @@
       "inProgress": false
     },
     {
-      "id": "401864541",
+      "id": "401860919",
       "sport": "CFB",
-      "away": "Hawai'i Rainbow Warriors",
-      "home": "Nevada Wolf Pack",
+      "away": "Utah State Aggies",
+      "home": "Oregon State Beavers",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -15743,10 +15743,10 @@
       "inProgress": false
     },
     {
-      "id": "401860919",
+      "id": "401864541",
       "sport": "CFB",
-      "away": "Utah State Aggies",
-      "home": "Oregon State Beavers",
+      "away": "Hawai'i Rainbow Warriors",
+      "home": "Nevada Wolf Pack",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
