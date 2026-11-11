@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-11-11T06:16:42.893773+00:00",
+  "updated_at": "2026-11-11T15:10:54.181989+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 5,
@@ -14846,23 +14846,23 @@
       "inProgress": false
     },
     {
-      "id": "401866464",
-      "sport": "CFB",
-      "away": "Ball State Cardinals",
-      "home": "Ohio Bobcats",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "11/17 - 7:00 PM EST",
-      "date": "2026-11-18T00:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
       "id": "401866465",
       "sport": "CFB",
       "away": "Eastern Michigan Eagles",
       "home": "Western Michigan Broncos",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "11/17 - 6:00 PM EST",
+      "date": "2026-11-17T23:00Z",
+      "completed": false,
+      "inProgress": false
+    },
+    {
+      "id": "401866464",
+      "sport": "CFB",
+      "away": "Ball State Cardinals",
+      "home": "Ohio Bobcats",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
