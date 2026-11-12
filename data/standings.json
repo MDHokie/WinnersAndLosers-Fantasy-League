@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-11-12T02:58:35.635770+00:00",
+  "updated_at": "2026-11-12T11:06:17.840823+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 5,
@@ -209,7 +209,7 @@
     },
     "CFB|Sacramento State Hornets": {
       "wins": 2,
-      "losses": 8,
+      "losses": 9,
       "ties": 0
     },
     "CFB|Eastern Michigan Eagles": {
@@ -269,7 +269,7 @@
     },
     "CFB|Massachusetts Minutemen": {
       "wins": 5,
-      "losses": 4,
+      "losses": 5,
       "ties": 0
     },
     "CFB|Rutgers Scarlet Knights": {
@@ -323,7 +323,7 @@
       "ties": 0
     },
     "CFB|Buffalo Bulls": {
-      "wins": 6,
+      "wins": 7,
       "losses": 3,
       "ties": 0
     },
@@ -408,7 +408,7 @@
       "ties": 0
     },
     "CFB|Toledo Rockets": {
-      "wins": 7,
+      "wins": 8,
       "losses": 2,
       "ties": 0
     },
@@ -419,7 +419,7 @@
     },
     "CFB|Ball State Cardinals": {
       "wins": 3,
-      "losses": 6,
+      "losses": 7,
       "ties": 0
     },
     "CFB|Ohio State Buckeyes": {
@@ -1028,7 +1028,7 @@
       "ties": 0
     },
     "CFB|Central Michigan Chippewas": {
-      "wins": 4,
+      "wins": 5,
       "losses": 5,
       "ties": 0
     },
@@ -14018,13 +14018,13 @@
       "sport": "CFB",
       "away": "Buffalo Bulls",
       "home": "Ball State Cardinals",
-      "awayScore": 14,
+      "awayScore": 28,
       "homeScore": 7,
-      "state": "in",
-      "statusText": "3:10 - 3rd",
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-11-12T00:30Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401866462",
@@ -14032,12 +14032,12 @@
       "away": "Sacramento State Hornets",
       "home": "Central Michigan Chippewas",
       "awayScore": 7,
-      "homeScore": 21,
-      "state": "in",
-      "statusText": "11:13 - 4th",
+      "homeScore": 28,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-11-12T00:30Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401866463",
@@ -14046,11 +14046,11 @@
       "home": "Toledo Rockets",
       "awayScore": 0,
       "homeScore": 24,
-      "state": "in",
-      "statusText": "8:01 - 3rd",
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-11-12T00:30Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401862824",
