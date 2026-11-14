@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-11-13T22:37:17.091155+00:00",
+  "updated_at": "2026-11-14T03:13:56.662756+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 5,
@@ -14083,13 +14083,13 @@
       "sport": "CFB",
       "away": "Florida State Seminoles",
       "home": "Pittsburgh Panthers",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "11/13 - 7:00 PM EST",
+      "awayScore": 16,
+      "homeScore": 10,
+      "state": "in",
+      "statusText": "4:24 - 4th",
       "date": "2026-11-14T00:00Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401858526",
@@ -14097,12 +14097,12 @@
       "away": "Illinois Fighting Illini",
       "home": "UCLA Bruins",
       "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "11/13 - 9:00 PM EST",
+      "homeScore": 7,
+      "state": "in",
+      "statusText": "4:34 - 2nd",
       "date": "2026-11-14T02:00Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401856860",
@@ -14161,19 +14161,6 @@
       "sport": "CFB",
       "away": "Cincinnati Bearcats",
       "home": "Iowa State Cyclones",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "11/14 - 12:00 PM EST",
-      "date": "2026-11-14T17:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
-      "id": "401856886",
-      "sport": "CFB",
-      "away": "Auburn Tigers",
-      "home": "Mississippi State Bulldogs",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -14551,6 +14538,19 @@
       "sport": "CFB",
       "away": "Ole Miss Rebels",
       "home": "Oklahoma Sooners",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "11/14 - 4:15 PM EST",
+      "date": "2026-11-14T21:15Z",
+      "completed": false,
+      "inProgress": false
+    },
+    {
+      "id": "401856886",
+      "sport": "CFB",
+      "away": "Auburn Tigers",
+      "home": "Mississippi State Bulldogs",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
