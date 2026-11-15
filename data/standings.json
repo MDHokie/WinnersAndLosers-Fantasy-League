@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-11-15T09:24:23.093574+00:00",
+  "updated_at": "2026-11-15T17:09:26.475530+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 5,
@@ -3306,13 +3306,13 @@
       "sport": "NFL",
       "away": "New England Patriots",
       "home": "Detroit Lions",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "11/15 - 9:30 AM EST",
+      "awayScore": 10,
+      "homeScore": 28,
+      "state": "in",
+      "statusText": "12:40 - 4th",
       "date": "2026-11-15T14:30Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401873058",
@@ -15002,19 +15002,6 @@
       "inProgress": false
     },
     {
-      "id": "401856872",
-      "sport": "CFB",
-      "away": "Utah Utes",
-      "home": "TCU Horned Frogs",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "TBD",
-      "date": "2026-11-21T05:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
       "id": "401858302",
       "sport": "CFB",
       "away": "Virginia Tech Hokies",
@@ -15028,62 +15015,10 @@
       "inProgress": false
     },
     {
-      "id": "401856866",
-      "sport": "CFB",
-      "away": "BYU Cougars",
-      "home": "Kansas Jayhawks",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "TBD",
-      "date": "2026-11-21T05:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
-      "id": "401856871",
-      "sport": "CFB",
-      "away": "Texas Tech Red Raiders",
-      "home": "Baylor Bears",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "TBD",
-      "date": "2026-11-21T05:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
       "id": "401858310",
       "sport": "CFB",
       "away": "Wake Forest Demon Deacons",
       "home": "Georgia Tech Yellow Jackets",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "TBD",
-      "date": "2026-11-21T05:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
-      "id": "401856868",
-      "sport": "CFB",
-      "away": "Houston Cougars",
-      "home": "West Virginia Mountaineers",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "TBD",
-      "date": "2026-11-21T05:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
-      "id": "401856865",
-      "sport": "CFB",
-      "away": "Arizona Wildcats",
-      "home": "Kansas State Wildcats",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -15119,15 +15054,15 @@
       "inProgress": false
     },
     {
-      "id": "401862836",
+      "id": "401856866",
       "sport": "CFB",
-      "away": "UTSA Roadrunners",
-      "home": "UAB Blazers",
+      "away": "BYU Cougars",
+      "home": "Kansas Jayhawks",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
-      "statusText": "TBD",
-      "date": "2026-11-21T05:00Z",
+      "statusText": "11/21 - 12:00 PM EST",
+      "date": "2026-11-21T17:00Z",
       "completed": false,
       "inProgress": false
     },
@@ -15271,6 +15206,19 @@
       "state": "pre",
       "statusText": "11/21 - 12:30 PM EST",
       "date": "2026-11-21T17:30Z",
+      "completed": false,
+      "inProgress": false
+    },
+    {
+      "id": "401856868",
+      "sport": "CFB",
+      "away": "Houston Cougars",
+      "home": "West Virginia Mountaineers",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "11/21 - 1:00 PM EST",
+      "date": "2026-11-21T18:00Z",
       "completed": false,
       "inProgress": false
     },
@@ -15483,6 +15431,19 @@
       "inProgress": false
     },
     {
+      "id": "401856871",
+      "sport": "CFB",
+      "away": "Texas Tech Red Raiders",
+      "home": "Baylor Bears",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "11/21 - 3:30 PM EST",
+      "date": "2026-11-21T20:30Z",
+      "completed": false,
+      "inProgress": false
+    },
+    {
       "id": "401856747",
       "sport": "CFB",
       "away": "Samford Bulldogs",
@@ -15613,6 +15574,19 @@
       "inProgress": false
     },
     {
+      "id": "401856865",
+      "sport": "CFB",
+      "away": "Arizona Wildcats",
+      "home": "Kansas State Wildcats",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "11/21 - 7:00 PM EST",
+      "date": "2026-11-22T00:00Z",
+      "completed": false,
+      "inProgress": false
+    },
+    {
       "id": "401864544",
       "sport": "CFB",
       "away": "UNLV Rebels",
@@ -15700,6 +15674,32 @@
       "state": "pre",
       "statusText": "11/21 - 7:30 PM EST",
       "date": "2026-11-22T00:30Z",
+      "completed": false,
+      "inProgress": false
+    },
+    {
+      "id": "401862836",
+      "sport": "CFB",
+      "away": "UTSA Roadrunners",
+      "home": "UAB Blazers",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "11/21 - 8:00 PM EST",
+      "date": "2026-11-22T01:00Z",
+      "completed": false,
+      "inProgress": false
+    },
+    {
+      "id": "401856872",
+      "sport": "CFB",
+      "away": "Utah Utes",
+      "home": "TCU Horned Frogs",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "11/21 - 9:00 PM EST",
+      "date": "2026-11-22T02:00Z",
       "completed": false,
       "inProgress": false
     },
