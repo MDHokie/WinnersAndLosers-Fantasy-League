@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-11-17T13:24:47.888296+00:00",
+  "updated_at": "2026-11-17T22:22:15.367933+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 5,
@@ -3731,19 +3731,6 @@
       "inProgress": false
     },
     {
-      "id": "401873086",
-      "sport": "NFL",
-      "away": "Las Vegas Raiders",
-      "home": "Cleveland Browns",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "11/29 - 1:00 PM EST",
-      "date": "2026-11-29T18:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
       "id": "401873088",
       "sport": "NFL",
       "away": "New York Giants",
@@ -3783,6 +3770,19 @@
       "inProgress": false
     },
     {
+      "id": "401873090",
+      "sport": "NFL",
+      "away": "Tennessee Titans",
+      "home": "Jacksonville Jaguars",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "11/29 - 1:00 PM EST",
+      "date": "2026-11-29T18:00Z",
+      "completed": false,
+      "inProgress": false
+    },
+    {
       "id": "401873085",
       "sport": "NFL",
       "away": "Baltimore Ravens",
@@ -3796,10 +3796,10 @@
       "inProgress": false
     },
     {
-      "id": "401873090",
+      "id": "401873093",
       "sport": "NFL",
-      "away": "Tennessee Titans",
-      "home": "Jacksonville Jaguars",
+      "away": "New England Patriots",
+      "home": "Los Angeles Chargers",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -3835,10 +3835,10 @@
       "inProgress": false
     },
     {
-      "id": "401873093",
+      "id": "401873086",
       "sport": "NFL",
-      "away": "New England Patriots",
-      "home": "Los Angeles Chargers",
+      "away": "Las Vegas Raiders",
+      "home": "Cleveland Browns",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -7509,7 +7509,7 @@
       "homeScore": 28,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-19T00:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -7522,7 +7522,7 @@
       "homeScore": 84,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-19T02:30Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -8471,7 +8471,7 @@
       "homeScore": 29,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-26T00:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -8497,7 +8497,7 @@
       "homeScore": 58,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-25T23:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -8536,7 +8536,7 @@
       "homeScore": 17,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-26T16:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -8562,7 +8562,7 @@
       "homeScore": 10,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-26T18:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -8588,7 +8588,7 @@
       "homeScore": 52,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-26T22:30Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -8601,7 +8601,7 @@
       "homeScore": 42,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-26T16:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -8627,7 +8627,7 @@
       "homeScore": 35,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-26T23:30Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -8640,7 +8640,7 @@
       "homeScore": 49,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-26T16:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -8653,7 +8653,7 @@
       "homeScore": 27,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-26T23:30Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -8666,7 +8666,7 @@
       "homeScore": 20,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-26T21:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -8692,7 +8692,7 @@
       "homeScore": 27,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-26T16:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -8705,7 +8705,7 @@
       "homeScore": 19,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-26T19:30Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -8718,7 +8718,7 @@
       "homeScore": 31,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-26T23:45Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -8744,7 +8744,7 @@
       "homeScore": 28,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-26T20:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -8757,7 +8757,7 @@
       "homeScore": 23,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-26T16:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -8770,7 +8770,7 @@
       "homeScore": 59,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-26T16:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -8796,7 +8796,7 @@
       "homeScore": 41,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-26T16:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -8822,7 +8822,7 @@
       "homeScore": 10,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-26T16:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -8835,7 +8835,7 @@
       "homeScore": 26,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-26T16:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -8848,7 +8848,7 @@
       "homeScore": 45,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-26T16:45Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -8874,7 +8874,7 @@
       "homeScore": 3,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-26T17:30Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -8887,7 +8887,7 @@
       "homeScore": 35,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-26T18:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -8952,7 +8952,7 @@
       "homeScore": 7,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-26T19:30Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -8978,7 +8978,7 @@
       "homeScore": 18,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-26T19:30Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -8991,7 +8991,7 @@
       "homeScore": 31,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-26T19:30Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -9004,7 +9004,7 @@
       "homeScore": 35,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-26T19:30Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -9030,7 +9030,7 @@
       "homeScore": 42,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-26T20:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -9056,7 +9056,7 @@
       "homeScore": 13,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-26T21:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -9069,7 +9069,7 @@
       "homeScore": 6,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-26T21:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -9121,7 +9121,7 @@
       "homeScore": 20,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-26T22:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -9173,7 +9173,7 @@
       "homeScore": 24,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-26T23:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -9199,7 +9199,7 @@
       "homeScore": 52,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-26T23:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -9212,7 +9212,7 @@
       "homeScore": 23,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-26T23:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -9225,7 +9225,7 @@
       "homeScore": 24,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-26T23:30Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -9277,7 +9277,7 @@
       "homeScore": 34,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-27T00:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -9316,7 +9316,7 @@
       "homeScore": 6,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-27T01:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -9342,7 +9342,7 @@
       "homeScore": 34,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-09-27T02:30Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -9355,7 +9355,7 @@
       "homeScore": 33,
       "state": "post",
       "statusText": "Final/2OT",
-      "date": "2026-09-27T02:30Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -10148,7 +10148,7 @@
       "homeScore": 55,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-07T00:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -10187,7 +10187,7 @@
       "homeScore": 35,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-08T23:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -10213,7 +10213,7 @@
       "homeScore": 31,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-08T23:30Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -10226,7 +10226,7 @@
       "homeScore": 49,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-08T23:30Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -10252,7 +10252,7 @@
       "homeScore": 24,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-10T01:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -10265,7 +10265,7 @@
       "homeScore": 44,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-09T23:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -10278,7 +10278,7 @@
       "homeScore": 17,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-10T01:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -10291,7 +10291,7 @@
       "homeScore": 13,
       "state": "post",
       "statusText": "Final/OT",
-      "date": "2026-10-10T01:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -10304,7 +10304,7 @@
       "homeScore": 27,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-10T19:30Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -10317,7 +10317,7 @@
       "homeScore": 17,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-10T23:30Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -10343,7 +10343,7 @@
       "homeScore": 45,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-10T20:15Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -10356,7 +10356,7 @@
       "homeScore": 17,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-10T16:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -10408,7 +10408,7 @@
       "homeScore": 15,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-10T19:30Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -10421,7 +10421,7 @@
       "homeScore": 27,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-10T16:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -10434,7 +10434,7 @@
       "homeScore": 17,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-10T20:15Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -10486,7 +10486,7 @@
       "homeScore": 16,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-10T19:30Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -10499,7 +10499,7 @@
       "homeScore": 31,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-11T02:30Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -10525,7 +10525,7 @@
       "homeScore": 31,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-10T16:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -10551,7 +10551,7 @@
       "homeScore": 20,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-10T16:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -10590,7 +10590,7 @@
       "homeScore": 28,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-10T17:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -10655,7 +10655,7 @@
       "homeScore": 37,
       "state": "post",
       "statusText": "Final/OT",
-      "date": "2026-10-10T19:30Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -10668,7 +10668,7 @@
       "homeScore": 50,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-10T19:30Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -10694,7 +10694,7 @@
       "homeScore": 23,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-10T19:30Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -10785,7 +10785,7 @@
       "homeScore": 13,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-10T23:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -10798,7 +10798,7 @@
       "homeScore": 13,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-10T23:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -10824,7 +10824,7 @@
       "homeScore": 28,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-10T23:30Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -10902,7 +10902,7 @@
       "homeScore": 33,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-13T23:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -10941,7 +10941,7 @@
       "homeScore": 3,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-15T00:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -10967,7 +10967,7 @@
       "homeScore": 15,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-15T23:30Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -11708,7 +11708,7 @@
       "homeScore": 23,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-20T23:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -11721,7 +11721,7 @@
       "homeScore": 61,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-20T23:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -11734,7 +11734,7 @@
       "homeScore": 20,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-20T23:30Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -11747,7 +11747,7 @@
       "homeScore": 24,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-22T00:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -11773,7 +11773,7 @@
       "homeScore": 6,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-22T23:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -11786,7 +11786,7 @@
       "homeScore": 41,
       "state": "post",
       "statusText": "Final/OT",
-      "date": "2026-10-22T23:30Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -11799,7 +11799,7 @@
       "homeScore": 16,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-23T23:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
@@ -11812,7 +11812,7 @@
       "homeScore": 35,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-10-23T23:00Z",
+      "date": "1993-01-31T23:30Z",
       "completed": true,
       "inProgress": false
     },
