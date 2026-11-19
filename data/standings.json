@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-11-18T21:55:53.901144+00:00",
+  "updated_at": "2026-11-19T03:26:00.910172+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 5,
@@ -269,7 +269,7 @@
     },
     "CFB|Massachusetts Minutemen": {
       "wins": 5,
-      "losses": 5,
+      "losses": 6,
       "ties": 0
     },
     "CFB|Rutgers Scarlet Knights": {
@@ -288,7 +288,7 @@
       "ties": 0
     },
     "CFB|Akron Zips": {
-      "wins": 1,
+      "wins": 2,
       "losses": 9,
       "ties": 0
     },
@@ -1358,6 +1358,11 @@
       "ties": 0
     },
     "CFB|TBD": {
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    "CFB|TBA": {
       "wins": 0,
       "losses": 0,
       "ties": 0
@@ -14889,12 +14894,12 @@
       "sport": "CFB",
       "away": "Akron Zips",
       "home": "Massachusetts Minutemen",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "11/18 - 7:00 PM EST",
+      "awayScore": 34,
+      "homeScore": 33,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-11-19T00:00Z",
-      "completed": false,
+      "completed": true,
       "inProgress": false
     },
     {
@@ -14902,13 +14907,13 @@
       "sport": "CFB",
       "away": "Central Michigan Chippewas",
       "home": "Buffalo Bulls",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "11/18 - 7:30 PM EST",
+      "awayScore": 21,
+      "homeScore": 40,
+      "state": "in",
+      "statusText": "2:38 - 4th",
       "date": "2026-11-19T00:30Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401862830",
@@ -16146,110 +16151,6 @@
       "inProgress": false
     },
     {
-      "id": "401934095",
-      "sport": "CFB",
-      "away": "TBD",
-      "home": "TBD",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "TBD",
-      "date": "2026-11-28T05:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
-      "id": "401934096",
-      "sport": "CFB",
-      "away": "TBD",
-      "home": "TBD",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "TBD",
-      "date": "2026-11-28T05:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
-      "id": "401934097",
-      "sport": "CFB",
-      "away": "TBD",
-      "home": "TBD",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "TBD",
-      "date": "2026-11-28T05:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
-      "id": "401934098",
-      "sport": "CFB",
-      "away": "TBD",
-      "home": "TBD",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "TBD",
-      "date": "2026-11-28T05:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
-      "id": "401934099",
-      "sport": "CFB",
-      "away": "TBD",
-      "home": "TBD",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "TBD",
-      "date": "2026-11-28T05:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
-      "id": "401934100",
-      "sport": "CFB",
-      "away": "TBD",
-      "home": "TBD",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "TBD",
-      "date": "2026-11-28T05:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
-      "id": "401934101",
-      "sport": "CFB",
-      "away": "TBD",
-      "home": "TBD",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "TBD",
-      "date": "2026-11-28T05:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
-      "id": "401934102",
-      "sport": "CFB",
-      "away": "TBD",
-      "home": "TBD",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "TBD",
-      "date": "2026-11-28T05:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
       "id": "401858314",
       "sport": "CFB",
       "away": "Notre Dame Fighting Irish",
@@ -16824,8 +16725,8 @@
     {
       "id": "401934103",
       "sport": "CFB",
-      "away": "TBD",
-      "home": "TBD",
+      "away": "TBA",
+      "home": "TBA",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -16837,8 +16738,8 @@
     {
       "id": "401934104",
       "sport": "CFB",
-      "away": "TBD",
-      "home": "TBD",
+      "away": "TBA",
+      "home": "TBA",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -16850,8 +16751,8 @@
     {
       "id": "401934105",
       "sport": "CFB",
-      "away": "TBD",
-      "home": "TBD",
+      "away": "TBA",
+      "home": "TBA",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -16863,8 +16764,8 @@
     {
       "id": "401934106",
       "sport": "CFB",
-      "away": "TBD",
-      "home": "TBD",
+      "away": "TBA",
+      "home": "TBA",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -16876,8 +16777,8 @@
     {
       "id": "401934107",
       "sport": "CFB",
-      "away": "TBD",
-      "home": "TBD",
+      "away": "TBA",
+      "home": "TBA",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -16889,8 +16790,8 @@
     {
       "id": "401934108",
       "sport": "CFB",
-      "away": "TBD",
-      "home": "TBD",
+      "away": "TBA",
+      "home": "TBA",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -16902,8 +16803,8 @@
     {
       "id": "401934109",
       "sport": "CFB",
-      "away": "TBD",
-      "home": "TBD",
+      "away": "TBA",
+      "home": "TBA",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -16915,8 +16816,8 @@
     {
       "id": "401934110",
       "sport": "CFB",
-      "away": "TBD",
-      "home": "TBD",
+      "away": "TBA",
+      "home": "TBA",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -16993,8 +16894,8 @@
     {
       "id": "401934111",
       "sport": "CFB",
-      "away": "TBD",
-      "home": "TBD",
+      "away": "TBA",
+      "home": "TBA",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -17006,8 +16907,8 @@
     {
       "id": "401934114",
       "sport": "CFB",
-      "away": "TBD",
-      "home": "TBD",
+      "away": "TBA",
+      "home": "TBA",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -17032,8 +16933,8 @@
     {
       "id": "401934112",
       "sport": "CFB",
-      "away": "TBD",
-      "home": "TBD",
+      "away": "TBA",
+      "home": "TBA",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -17058,8 +16959,8 @@
     {
       "id": "401934113",
       "sport": "CFB",
-      "away": "TBD",
-      "home": "TBD",
+      "away": "TBA",
+      "home": "TBA",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -17175,8 +17076,8 @@
     {
       "id": "401934115",
       "sport": "CFB",
-      "away": "TBD",
-      "home": "TBD",
+      "away": "TBA",
+      "home": "TBA",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -17201,8 +17102,8 @@
     {
       "id": "401934116",
       "sport": "CFB",
-      "away": "TBD",
-      "home": "TBD",
+      "away": "TBA",
+      "home": "TBA",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -17669,8 +17570,8 @@
     {
       "id": "401934117",
       "sport": "CFB",
-      "away": "TBD",
-      "home": "TBD",
+      "away": "TBA",
+      "home": "TBA",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
