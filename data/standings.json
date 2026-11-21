@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-11-21T02:12:32.684993+00:00",
+  "updated_at": "2026-11-21T09:51:57.522048+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 5,
@@ -283,7 +283,7 @@
       "ties": 0
     },
     "CFB|UCF Knights": {
-      "wins": 5,
+      "wins": 6,
       "losses": 5,
       "ties": 0
     },
@@ -364,7 +364,7 @@
     },
     "CFB|UTEP Miners": {
       "wins": 1,
-      "losses": 9,
+      "losses": 10,
       "ties": 0
     },
     "CFB|Oklahoma Sooners": {
@@ -408,13 +408,13 @@
       "ties": 0
     },
     "CFB|Toledo Rockets": {
-      "wins": 8,
+      "wins": 9,
       "losses": 2,
       "ties": 0
     },
     "CFB|Michigan State Spartans": {
       "wins": 3,
-      "losses": 7,
+      "losses": 8,
       "ties": 0
     },
     "CFB|Ball State Cardinals": {
@@ -433,7 +433,7 @@
       "ties": 0
     },
     "CFB|Oregon Ducks": {
-      "wins": 7,
+      "wins": 8,
       "losses": 3,
       "ties": 0
     },
@@ -478,7 +478,7 @@
       "ties": 0
     },
     "CFB|Clemson Tigers": {
-      "wins": 6,
+      "wins": 7,
       "losses": 4,
       "ties": 0
     },
@@ -624,7 +624,7 @@
     },
     "CFB|Bowling Green Falcons": {
       "wins": 3,
-      "losses": 7,
+      "losses": 8,
       "ties": 0
     },
     "CFB|Liberty Flames": {
@@ -674,7 +674,7 @@
     },
     "CFB|Iowa State Cyclones": {
       "wins": 5,
-      "losses": 5,
+      "losses": 6,
       "ties": 0
     },
     "CFB|Duquesne Dukes": {
@@ -683,7 +683,7 @@
       "ties": 0
     },
     "CFB|Air Force Falcons": {
-      "wins": 8,
+      "wins": 9,
       "losses": 2,
       "ties": 0
     },
@@ -724,7 +724,7 @@
     },
     "CFB|Duke Blue Devils": {
       "wins": 7,
-      "losses": 3,
+      "losses": 4,
       "ties": 0
     },
     "CFB|The Citadel Bulldogs": {
@@ -804,7 +804,7 @@
     },
     "CFB|Wyoming Cowboys": {
       "wins": 7,
-      "losses": 3,
+      "losses": 4,
       "ties": 0
     },
     "CFB|Colorado State Rams": {
@@ -1033,7 +1033,7 @@
       "ties": 0
     },
     "CFB|New Mexico Lobos": {
-      "wins": 8,
+      "wins": 9,
       "losses": 2,
       "ties": 0
     },
@@ -14924,30 +14924,43 @@
       "inProgress": false
     },
     {
+      "id": "401858529",
+      "sport": "CFB",
+      "away": "Oregon Ducks",
+      "home": "Michigan State Spartans",
+      "awayScore": 45,
+      "homeScore": 7,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-11-21T01:00Z",
+      "completed": true,
+      "inProgress": false
+    },
+    {
       "id": "401856869",
       "sport": "CFB",
       "away": "Iowa State Cyclones",
       "home": "UCF Knights",
       "awayScore": 17,
       "homeScore": 48,
-      "state": "in",
-      "statusText": "6:35 - 4th",
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-11-20T23:00Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401858303",
       "sport": "CFB",
       "away": "Clemson Tigers",
       "home": "Duke Blue Devils",
-      "awayScore": 3,
-      "homeScore": 0,
-      "state": "in",
-      "statusText": "Halftime",
+      "awayScore": 20,
+      "homeScore": 10,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-11-21T00:30Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401866468",
@@ -14955,25 +14968,12 @@
       "away": "Bowling Green Falcons",
       "home": "Toledo Rockets",
       "awayScore": 0,
-      "homeScore": 16,
-      "state": "in",
-      "statusText": "Halftime",
+      "homeScore": 19,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-11-21T00:30Z",
-      "completed": false,
-      "inProgress": true
-    },
-    {
-      "id": "401858529",
-      "sport": "CFB",
-      "away": "Oregon Ducks",
-      "home": "Michigan State Spartans",
-      "awayScore": 10,
-      "homeScore": 0,
-      "state": "in",
-      "statusText": "2:53 - 2nd",
-      "date": "2026-11-21T01:00Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401864545",
@@ -14981,24 +14981,24 @@
       "away": "UTEP Miners",
       "home": "Air Force Falcons",
       "awayScore": 3,
-      "homeScore": 21,
-      "state": "in",
-      "statusText": "7:35 - 2nd",
+      "homeScore": 52,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-11-21T01:00Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401864542",
       "sport": "CFB",
       "away": "New Mexico Lobos",
       "home": "Wyoming Cowboys",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "11/20 - 9:00 PM EST",
+      "awayScore": 24,
+      "homeScore": 17,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-11-21T02:00Z",
-      "completed": false,
+      "completed": true,
       "inProgress": false
     },
     {
