@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-11-23T00:51:42.865286+00:00",
+  "updated_at": "2026-11-23T09:03:25.402675+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 5,
@@ -13,7 +13,7 @@
       "ties": 0
     },
     "NFL|San Francisco 49ers": {
-      "wins": 8,
+      "wins": 9,
       "losses": 1,
       "ties": 0
     },
@@ -89,7 +89,7 @@
     },
     "NFL|Jacksonville Jaguars": {
       "wins": 7,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     },
     "NFL|Buffalo Bills": {
@@ -119,7 +119,7 @@
     },
     "NFL|Minnesota Vikings": {
       "wins": 7,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     },
     "NFL|Washington Commanders": {
@@ -148,7 +148,7 @@
       "ties": 0
     },
     "NFL|New York Giants": {
-      "wins": 5,
+      "wins": 6,
       "losses": 3,
       "ties": 1
     },
@@ -3494,17 +3494,30 @@
       "inProgress": false
     },
     {
-      "id": "401873069",
+      "id": "401873078",
       "sport": "NFL",
-      "away": "Jacksonville Jaguars",
-      "home": "New York Giants",
-      "awayScore": 18,
-      "homeScore": 23,
-      "state": "in",
-      "statusText": "2:00 - 4th",
-      "date": "2026-11-22T21:25Z",
+      "away": "Cincinnati Bengals",
+      "home": "Washington Commanders",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "11/23 - 8:15 PM EST",
+      "date": "2026-11-24T01:15Z",
       "completed": false,
-      "inProgress": true
+      "inProgress": false
+    },
+    {
+      "id": "401873066",
+      "sport": "NFL",
+      "away": "Indianapolis Colts",
+      "home": "Houston Texans",
+      "awayScore": 3,
+      "homeScore": 26,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-11-20T01:15Z",
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401873070",
@@ -3624,42 +3637,29 @@
       "inProgress": false
     },
     {
-      "id": "401873077",
+      "id": "401873069",
       "sport": "NFL",
-      "away": "Minnesota Vikings",
-      "home": "San Francisco 49ers",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "11/22 - 8:20 PM EST",
-      "date": "2026-11-23T01:20Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
-      "id": "401873066",
-      "sport": "NFL",
-      "away": "Indianapolis Colts",
-      "home": "Houston Texans",
-      "awayScore": 3,
-      "homeScore": 26,
+      "away": "Jacksonville Jaguars",
+      "home": "New York Giants",
+      "awayScore": 18,
+      "homeScore": 23,
       "state": "post",
       "statusText": "Final",
-      "date": "2026-11-20T01:15Z",
+      "date": "2026-11-22T21:25Z",
       "completed": true,
       "inProgress": false
     },
     {
-      "id": "401873078",
+      "id": "401873077",
       "sport": "NFL",
-      "away": "Cincinnati Bengals",
-      "home": "Washington Commanders",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "11/23 - 8:15 PM EST",
-      "date": "2026-11-24T01:15Z",
-      "completed": false,
+      "away": "Minnesota Vikings",
+      "home": "San Francisco 49ers",
+      "awayScore": 10,
+      "homeScore": 35,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-11-23T01:20Z",
+      "completed": true,
       "inProgress": false
     },
     {
