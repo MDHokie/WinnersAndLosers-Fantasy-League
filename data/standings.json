@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-11-23T21:22:28.767829+00:00",
+  "updated_at": "2026-11-24T06:01:40.637066+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 5,
@@ -29,7 +29,7 @@
     },
     "NFL|Cincinnati Bengals": {
       "wins": 7,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     },
     "NFL|New Orleans Saints": {
@@ -123,7 +123,7 @@
       "ties": 0
     },
     "NFL|Washington Commanders": {
-      "wins": 3,
+      "wins": 4,
       "losses": 5,
       "ties": 1
     },
@@ -3494,19 +3494,6 @@
       "inProgress": false
     },
     {
-      "id": "401873078",
-      "sport": "NFL",
-      "away": "Cincinnati Bengals",
-      "home": "Washington Commanders",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "11/23 - 8:15 PM EST",
-      "date": "2026-11-24T01:15Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
       "id": "401873066",
       "sport": "NFL",
       "away": "Indianapolis Colts",
@@ -3659,6 +3646,19 @@
       "state": "post",
       "statusText": "Final",
       "date": "2026-11-23T01:20Z",
+      "completed": true,
+      "inProgress": false
+    },
+    {
+      "id": "401873078",
+      "sport": "NFL",
+      "away": "Cincinnati Bengals",
+      "home": "Washington Commanders",
+      "awayScore": 20,
+      "homeScore": 22,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-11-24T01:15Z",
       "completed": true,
       "inProgress": false
     },
