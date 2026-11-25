@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-11-24T17:42:47.635053+00:00",
+  "updated_at": "2026-11-25T02:26:58.915272+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 5,
@@ -15770,26 +15770,26 @@
       "sport": "CFB",
       "away": "Kent State Golden Flashes",
       "home": "Eastern Michigan Eagles",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "11/24 - 7:00 PM EST",
+      "awayScore": 12,
+      "homeScore": 14,
+      "state": "in",
+      "statusText": "13:10 - 4th",
       "date": "2026-11-25T00:00Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401866471",
       "sport": "CFB",
       "away": "Miami (OH) RedHawks",
       "home": "Western Michigan Broncos",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "11/24 - 7:00 PM EST",
+      "awayScore": 21,
+      "homeScore": 16,
+      "state": "in",
+      "statusText": "4:39 - 3rd",
       "date": "2026-11-25T00:00Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401856879",
@@ -16000,10 +16000,10 @@
       "inProgress": false
     },
     {
-      "id": "401858540",
+      "id": "401856761",
       "sport": "CFB",
-      "away": "Michigan Wolverines",
-      "home": "Ohio State Buckeyes",
+      "away": "Louisville Cardinals",
+      "home": "Kentucky Wildcats",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -16013,10 +16013,10 @@
       "inProgress": false
     },
     {
-      "id": "401856761",
+      "id": "401858540",
       "sport": "CFB",
-      "away": "Louisville Cardinals",
-      "home": "Kentucky Wildcats",
+      "away": "Michigan Wolverines",
+      "home": "Ohio State Buckeyes",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -16325,6 +16325,19 @@
       "inProgress": false
     },
     {
+      "id": "401858312",
+      "sport": "CFB",
+      "away": "Duke Blue Devils",
+      "home": "Wake Forest Demon Deacons",
+      "awayScore": 0,
+      "homeScore": 0,
+      "state": "pre",
+      "statusText": "11/28 - 3:30 PM EST",
+      "date": "2026-11-28T20:30Z",
+      "completed": false,
+      "inProgress": false
+    },
+    {
       "id": "401858543",
       "sport": "CFB",
       "away": "USC Trojans",
@@ -16342,19 +16355,6 @@
       "sport": "CFB",
       "away": "Cincinnati Bearcats",
       "home": "BYU Cougars",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "11/28 - 3:30 PM EST",
-      "date": "2026-11-28T20:30Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
-      "id": "401858312",
-      "sport": "CFB",
-      "away": "Duke Blue Devils",
-      "home": "Wake Forest Demon Deacons",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -16520,10 +16520,10 @@
       "inProgress": false
     },
     {
-      "id": "401858538",
+      "id": "401856765",
       "sport": "CFB",
-      "away": "Purdue Boilermakers",
-      "home": "Indiana Hoosiers",
+      "away": "Tennessee Volunteers",
+      "home": "Vanderbilt Commodores",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -16533,10 +16533,10 @@
       "inProgress": false
     },
     {
-      "id": "401856765",
+      "id": "401858538",
       "sport": "CFB",
-      "away": "Tennessee Volunteers",
-      "home": "Vanderbilt Commodores",
+      "away": "Purdue Boilermakers",
+      "home": "Indiana Hoosiers",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -16689,10 +16689,10 @@
       "inProgress": false
     },
     {
-      "id": "401869542",
+      "id": "401869533",
       "sport": "CFB",
-      "away": "San Diego State Aztecs",
-      "home": "Boise State Broncos",
+      "away": "TBD",
+      "home": "Utah",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
@@ -16702,10 +16702,10 @@
       "inProgress": false
     },
     {
-      "id": "401869533",
+      "id": "401869542",
       "sport": "CFB",
-      "away": "TBD",
-      "home": "Utah",
+      "away": "San Diego State Aztecs",
+      "home": "Boise State Broncos",
       "awayScore": 0,
       "homeScore": 0,
       "state": "pre",
