@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-11-26T15:13:48.113306+00:00",
+  "updated_at": "2026-11-26T23:52:55.742050+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 5,
@@ -39,7 +39,7 @@
     },
     "NFL|Detroit Lions": {
       "wins": 8,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     },
     "NFL|New York Jets": {
@@ -73,7 +73,7 @@
       "ties": 0
     },
     "NFL|Chicago Bears": {
-      "wins": 8,
+      "wins": 9,
       "losses": 2,
       "ties": 0
     },
@@ -3663,29 +3663,29 @@
       "inProgress": false
     },
     {
-      "id": "401873081",
-      "sport": "NFL",
-      "away": "Chicago Bears",
-      "home": "Detroit Lions",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "11/26 - 1:00 PM EST",
-      "date": "2026-11-26T18:00Z",
-      "completed": false,
-      "inProgress": false
-    },
-    {
       "id": "401873080",
       "sport": "NFL",
       "away": "Philadelphia Eagles",
       "home": "Dallas Cowboys",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "11/26 - 4:30 PM EST",
+      "awayScore": 10,
+      "homeScore": 28,
+      "state": "in",
+      "statusText": "13:17 - 3rd",
       "date": "2026-11-26T21:30Z",
       "completed": false,
+      "inProgress": true
+    },
+    {
+      "id": "401873081",
+      "sport": "NFL",
+      "away": "Chicago Bears",
+      "home": "Detroit Lions",
+      "awayScore": 39,
+      "homeScore": 35,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-11-26T18:00Z",
+      "completed": true,
       "inProgress": false
     },
     {
