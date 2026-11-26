@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-11-26T05:02:14.267162+00:00",
+  "updated_at": "2026-11-26T15:13:48.113306+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 5,
@@ -3663,19 +3663,6 @@
       "inProgress": false
     },
     {
-      "id": "401873079",
-      "sport": "NFL",
-      "away": "Green Bay Packers",
-      "home": "Los Angeles Rams",
-      "awayScore": 13,
-      "homeScore": 26,
-      "state": "post",
-      "statusText": "Final",
-      "date": "2026-11-26T01:00Z",
-      "completed": true,
-      "inProgress": false
-    },
-    {
       "id": "401873081",
       "sport": "NFL",
       "away": "Chicago Bears",
@@ -3712,6 +3699,19 @@
       "statusText": "11/26 - 8:20 PM EST",
       "date": "2026-11-27T01:20Z",
       "completed": false,
+      "inProgress": false
+    },
+    {
+      "id": "401873079",
+      "sport": "NFL",
+      "away": "Green Bay Packers",
+      "home": "Los Angeles Rams",
+      "awayScore": 13,
+      "homeScore": 26,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-11-26T01:00Z",
+      "completed": true,
       "inProgress": false
     },
     {
