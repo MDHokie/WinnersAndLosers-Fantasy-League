@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-11-27T08:29:32.717089+00:00",
+  "updated_at": "2026-11-27T18:58:28.077510+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 5,
@@ -15804,65 +15804,65 @@
       "sport": "CFB",
       "away": "Mississippi State Bulldogs",
       "home": "Ole Miss Rebels",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "11/27 - 12:00 PM EST",
+      "awayScore": 10,
+      "homeScore": 6,
+      "state": "in",
+      "statusText": "12:34 - 3rd",
       "date": "2026-11-27T17:00Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401862840",
       "sport": "CFB",
       "away": "Tulsa Golden Hurricane",
       "home": "UTSA Roadrunners",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "11/27 - 12:00 PM EST",
+      "awayScore": 7,
+      "homeScore": 25,
+      "state": "in",
+      "statusText": "Halftime",
       "date": "2026-11-27T17:00Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401866472",
       "sport": "CFB",
       "away": "Buffalo Bulls",
       "home": "Akron Zips",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "11/27 - 12:00 PM EST",
+      "awayScore": 7,
+      "homeScore": 9,
+      "state": "in",
+      "statusText": "10:29 - 3rd",
       "date": "2026-11-27T17:00Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401866473",
       "sport": "CFB",
       "away": "Toledo Rockets",
       "home": "Ohio Bobcats",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "11/27 - 12:00 PM EST",
+      "awayScore": 17,
+      "homeScore": 10,
+      "state": "in",
+      "statusText": "Halftime",
       "date": "2026-11-27T17:00Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401858536",
       "sport": "CFB",
       "away": "Nebraska Cornhuskers",
       "home": "Iowa Hawkeyes",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "11/27 - 12:08 PM EST",
+      "awayScore": 7,
+      "homeScore": 10,
+      "state": "in",
+      "statusText": "13:02 - 3rd",
       "date": "2026-11-27T17:08Z",
       "completed": false,
-      "inProgress": false
+      "inProgress": true
     },
     {
       "id": "401869930",
