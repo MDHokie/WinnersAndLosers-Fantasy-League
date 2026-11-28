@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "updated_at": "2026-11-28T01:58:49.789813+00:00",
+  "updated_at": "2026-11-28T10:25:26.875910+00:00",
   "team_records": {
     "NFL|New England Patriots": {
       "wins": 5,
@@ -253,7 +253,7 @@
       "ties": 0
     },
     "CFB|Utah Utes": {
-      "wins": 11,
+      "wins": 12,
       "losses": 0,
       "ties": 0
     },
@@ -344,7 +344,7 @@
     },
     "CFB|Minnesota Golden Gophers": {
       "wins": 6,
-      "losses": 5,
+      "losses": 6,
       "ties": 0
     },
     "CFB|UAB Blazers": {
@@ -453,7 +453,7 @@
       "ties": 0
     },
     "CFB|Texas Longhorns": {
-      "wins": 9,
+      "wins": 10,
       "losses": 2,
       "ties": 0
     },
@@ -474,7 +474,7 @@
     },
     "CFB|Texas A&M Aggies": {
       "wins": 4,
-      "losses": 7,
+      "losses": 8,
       "ties": 0
     },
     "CFB|Clemson Tigers": {
@@ -574,7 +574,7 @@
     },
     "CFB|West Virginia Mountaineers": {
       "wins": 5,
-      "losses": 6,
+      "losses": 7,
       "ties": 0
     },
     "CFB|New Hampshire Wildcats": {
@@ -1063,7 +1063,7 @@
       "ties": 0
     },
     "CFB|Wisconsin Badgers": {
-      "wins": 7,
+      "wins": 8,
       "losses": 4,
       "ties": 0
     },
@@ -3658,19 +3658,6 @@
       "inProgress": false
     },
     {
-      "id": "401873083",
-      "sport": "NFL",
-      "away": "Denver Broncos",
-      "home": "Pittsburgh Steelers",
-      "awayScore": 5,
-      "homeScore": 27,
-      "state": "post",
-      "statusText": "Final",
-      "date": "2026-11-27T20:00Z",
-      "completed": true,
-      "inProgress": false
-    },
-    {
       "id": "401873079",
       "sport": "NFL",
       "away": "Green Bay Packers",
@@ -3719,6 +3706,19 @@
       "state": "post",
       "statusText": "Final",
       "date": "2026-11-27T01:20Z",
+      "completed": true,
+      "inProgress": false
+    },
+    {
+      "id": "401873083",
+      "sport": "NFL",
+      "away": "Denver Broncos",
+      "home": "Pittsburgh Steelers",
+      "awayScore": 5,
+      "homeScore": 27,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-11-27T20:00Z",
       "completed": true,
       "inProgress": false
     },
@@ -15800,30 +15800,30 @@
       "inProgress": false
     },
     {
+      "id": "401856880",
+      "sport": "CFB",
+      "away": "West Virginia Mountaineers",
+      "home": "Utah Utes",
+      "awayScore": 28,
+      "homeScore": 52,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-11-28T02:00Z",
+      "completed": true,
+      "inProgress": false
+    },
+    {
       "id": "401856756",
       "sport": "CFB",
       "away": "Texas Longhorns",
       "home": "Texas A&M Aggies",
-      "awayScore": 10,
-      "homeScore": 0,
-      "state": "in",
-      "statusText": "1:54 - 2nd",
+      "awayScore": 16,
+      "homeScore": 6,
+      "state": "post",
+      "statusText": "Final",
       "date": "2026-11-28T00:30Z",
-      "completed": false,
-      "inProgress": true
-    },
-    {
-      "id": "401858544",
-      "sport": "CFB",
-      "away": "Minnesota Golden Gophers",
-      "home": "Wisconsin Badgers",
-      "awayScore": 3,
-      "homeScore": 14,
-      "state": "in",
-      "statusText": "0:32 - 2nd",
-      "date": "2026-11-28T00:30Z",
-      "completed": false,
-      "inProgress": true
+      "completed": true,
+      "inProgress": false
     },
     {
       "id": "401858536",
@@ -15956,16 +15956,16 @@
       "inProgress": false
     },
     {
-      "id": "401856880",
+      "id": "401858544",
       "sport": "CFB",
-      "away": "West Virginia Mountaineers",
-      "home": "Utah Utes",
-      "awayScore": 0,
-      "homeScore": 0,
-      "state": "pre",
-      "statusText": "11/27 - 9:00 PM EST",
-      "date": "2026-11-28T02:00Z",
-      "completed": false,
+      "away": "Minnesota Golden Gophers",
+      "home": "Wisconsin Badgers",
+      "awayScore": 5,
+      "homeScore": 28,
+      "state": "post",
+      "statusText": "Final",
+      "date": "2026-11-28T00:30Z",
+      "completed": true,
       "inProgress": false
     },
     {
